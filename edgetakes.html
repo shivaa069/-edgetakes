@@ -1,0 +1,2283 @@
+<!DOCTYPE html>
+<html lang="en" data-theme="light">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
+  <title>edgetakes | Viral K-Drama Everyone's Obsessed With</title>
+  <meta name="description" content="The dramas breaking the internet. School fights, toxic romance, revenge plots - find the viral K-dramas everyone's watching on reels.">
+  <meta name="keywords" content="K-Drama, Korean Drama, School Fighting Drama, Toxic Romance, Viral K-Drama, Trending Drama, Revenge K-Drama">
+  <meta name="author" content="edgetakes">
+  <meta name="theme-color" content="#ffffff">
+
+  <meta http-equiv="X-Content-Type-Options" content="nosniff">
+  <meta name="referrer" content="strict-origin-when-cross-origin">
+
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link rel="dns-prefetch" href="https://images.unsplash.com">
+  <link rel="dns-prefetch" href="https://www.googletagmanager.com">
+  <link rel="preconnect" href="https://www.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&family=Space+Grotesk:wght@500;600;700&display=swap" rel="stylesheet">
+
+  <meta property="og:type" content="website">
+  <meta property="og:url" content="https://edgetakes.pages.dev/">
+  <meta property="og:title" content="edgetakes | The Dramas Breaking The Internet">
+  <meta property="og:description" content="School fights, toxic romance, revenge plots - find the viral K-dramas everyone's watching.">
+  <meta property="og:image" content="https://edgetakes.pages.dev/og-image.jpg">
+
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="edgetakes | Viral K-Drama Everyone's Obsessed With">
+  <meta name="twitter:description" content="The dramas breaking the internet. Find what everyone's watching.">
+
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "WebSite",
+    "name": "edgetakes",
+    "url": "https://edgetakes.pages.dev/",
+    "description": "Viral K-Drama destination - School fights, toxic romance, revenge plots",
+    "potentialAction": {
+      "@type": "SearchAction",
+      "target": "https://edgetakes.pages.dev/?q={search_term_string}",
+      "query-input": "required name=search_term_string"
+    }
+  }
+  </script>
+
+  <script>
+    (function() {
+      try {
+        var storedTheme = localStorage.getItem('edgetakes-theme');
+        var theme = storedTheme || 'light';
+        document.documentElement.setAttribute('data-theme', theme);
+        document.documentElement.style.colorScheme = theme === 'dark' || theme === 'red' ? 'dark' : 'light';
+        if (!storedTheme) localStorage.setItem('edgetakes-theme', 'light');
+      } catch (e) {
+        document.documentElement.setAttribute('data-theme', 'light');
+      }
+    })();
+  </script>
+
+  <style>
+    :root {
+      --bg-primary: #ffffff;
+      --bg-secondary: #f5f6f8;
+      --bg-elevated: #ffffff;
+      --bg-card: #ffffff;
+      --bg-card-hover: #f0f2f5;
+
+      --accent-primary: #1a1a2e;
+      --accent-glow: rgba(26, 26, 46, 0.10);
+      --accent-subtle: rgba(26, 26, 46, 0.04);
+
+      --fire: #e63946;
+      --fire-glow: rgba(230, 57, 70, 0.18);
+      --heart: #d63384;
+      --heart-glow: rgba(214, 51, 132, 0.18);
+      --chaos: #fd7e14;
+      --revenge: #6f42c1;
+      --mind: #20c997;
+      --sad: #4361ee;
+
+      --text-primary: #1a1a2e;
+      --text-secondary: #495057;
+      --text-muted: #868e96;
+      --text-accent: var(--accent-primary);
+
+      --glass-bg: rgba(255, 255, 255, 0.96);
+      --glass-border: rgba(0, 0, 0, 0.06);
+      --glass-blur: blur(20px);
+
+      --shadow-sm: 0 1px 3px rgba(0, 0, 0, 0.04);
+      --shadow-md: 0 4px 12px rgba(0, 0, 0, 0.06);
+      --shadow-lg: 0 8px 28px rgba(0, 0, 0, 0.08);
+      --shadow-card: 0 2px 8px rgba(0,0,0,0.06), 0 0 0 1px rgba(0,0,0,0.03);
+
+      --radius-sm: 8px;
+      --radius-md: 12px;
+      --radius-lg: 14px;
+      --radius-xl: 18px;
+      --radius-full: 50px;
+
+      --ad-sticky-height: 64px;
+      --ad-sticky-height-mobile: 52px;
+
+      --ease-out: cubic-bezier(0.33, 1, 0.68, 1);
+      --duration-fast: 0.18s;
+      --duration-medium: 0.25s;
+
+      --space-xs: 6px;
+      --space-sm: 10px;
+      --space-md: 16px;
+      --space-lg: 24px;
+      --space-xl: 36px;
+    }
+
+    [data-theme="dark"] {
+      --bg-primary: #0a0a0f;
+      --bg-secondary: #111118;
+      --bg-elevated: #18181f;
+      --bg-card: #14141c;
+      --bg-card-hover: #1c1c28;
+
+      --accent-primary: #00d4ff;
+      --accent-glow: rgba(0, 212, 255, 0.15);
+      --accent-subtle: rgba(0, 212, 255, 0.06);
+
+      --text-primary: #f0f0f4;
+      --text-secondary: #9a9ab0;
+      --text-muted: #5e5e72;
+      --text-accent: var(--accent-primary);
+
+      --glass-bg: rgba(16, 16, 24, 0.96);
+      --glass-border: rgba(255, 255, 255, 0.06);
+
+      --shadow-sm: 0 2px 6px rgba(0, 0, 0, 0.3);
+      --shadow-md: 0 4px 16px rgba(0, 0, 0, 0.35);
+      --shadow-lg: 0 8px 32px rgba(0, 0, 0, 0.4);
+      --shadow-card: 0 2px 8px rgba(0,0,0,0.3), 0 0 0 1px rgba(255,255,255,0.04);
+    }
+
+    [data-theme="red"] {
+      --bg-primary: #0f0a0a;
+      --bg-secondary: #181010;
+      --bg-elevated: #221818;
+      --bg-card: #1c1212;
+      --bg-card-hover: #281c1c;
+
+      --accent-primary: #ff3b3b;
+      --accent-glow: rgba(255, 59, 59, 0.15);
+      --accent-subtle: rgba(255, 59, 59, 0.06);
+
+      --text-primary: #f4f0f0;
+      --text-secondary: #b09a9a;
+      --text-muted: #726060;
+      --text-accent: var(--accent-primary);
+
+      --glass-bg: rgba(28, 18, 18, 0.96);
+      --glass-border: rgba(255, 80, 80, 0.08);
+      --shadow-card: 0 2px 8px rgba(0,0,0,0.3), 0 0 0 1px rgba(255,60,60,0.06);
+    }
+
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+    html { scroll-behavior: smooth; -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale; }
+    html, body { max-width: 100%; overflow-x: hidden; }
+
+    body {
+      font-family: 'Inter', system-ui, -apple-system, sans-serif;
+      background: var(--bg-primary);
+      color: var(--text-primary);
+      line-height: 1.55;
+      min-height: 100vh;
+      transition: background var(--duration-medium) var(--ease-out), color var(--duration-medium) var(--ease-out);
+    }
+
+    h1, h2, h3, h4, h5, h6 {
+      font-family: 'Space Grotesk', 'Inter', sans-serif;
+      font-weight: 700;
+      line-height: 1.2;
+      color: var(--text-primary);
+    }
+
+    a { text-decoration: none; color: inherit; transition: color var(--duration-fast) ease; }
+    img { max-width: 100%; height: auto; display: block; }
+    button { font-family: inherit; cursor: pointer; border: none; background: none; }
+
+    .container { width: 100%; max-width: 1200px; margin: 0 auto; padding: 0 14px; }
+    @media (min-width: 768px) { .container { padding: 0 20px; } }
+
+    /* AD CONTAINERS */
+    .ad-container {
+      position: relative;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      overflow: hidden;
+      background: var(--bg-secondary);
+      border: 1px solid var(--glass-border);
+      border-radius: var(--radius-md);
+      flex-shrink: 0;
+    }
+
+    .ad-container::after {
+      content: 'Sponsored';
+      position: absolute;
+      top: 5px;
+      right: 8px;
+      font-size: 8px;
+      font-weight: 600;
+      letter-spacing: 0.8px;
+      text-transform: uppercase;
+      color: var(--text-muted);
+      opacity: 0.3;
+      z-index: 1;
+      pointer-events: none;
+    }
+
+    .ad-slot-grid {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      padding: var(--space-xs) 0;
+      margin-bottom: var(--space-md);
+    }
+
+    .ad-slot-fixed {
+      width: 100%;
+      min-height: 250px;
+      background: var(--bg-secondary);
+      border: 1px solid var(--glass-border);
+      border-radius: var(--radius-md);
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      color: var(--text-muted);
+      font-size: 0.8rem;
+      font-weight: 500;
+      position: relative;
+    }
+
+    .ad-slot-fixed::before { content: 'Sponsored content'; opacity: 0.3; font-size: 0.75rem; letter-spacing: 0.5px; }
+    .ad-slot-fixed.has-ad::before { display: none; }
+
+    .monetization-slot {
+      width: 100%;
+      max-width: 728px;
+      min-height: 80px;
+      margin: var(--space-md) auto;
+      background: var(--bg-secondary);
+      border: 1px solid var(--glass-border);
+      border-radius: var(--radius-md);
+      display: flex;
+      align-items: center;
+      justify-content: center;
+    }
+
+    .monetization-slot::before { content: 'Sponsored'; color: var(--text-muted); font-size: 0.7rem; opacity: 0.25; letter-spacing: 0.8px; text-transform: uppercase; }
+    .monetization-slot.has-ad::before { display: none; }
+
+    /* STICKY AD */
+    .ad-sticky {
+      position: fixed;
+      bottom: 0;
+      left: 0;
+      right: 0;
+      width: 100%;
+      height: var(--ad-sticky-height);
+      min-height: var(--ad-sticky-height);
+      background: var(--glass-bg);
+      backdrop-filter: blur(16px);
+      -webkit-backdrop-filter: blur(16px);
+      border-top: 1px solid var(--glass-border);
+      z-index: 90;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      transform: translateY(100%);
+      transition: transform 0.3s var(--ease-out);
+      padding: 0 56px 0 14px;
+    }
+
+    .ad-sticky.visible { transform: translateY(0); }
+
+    .ad-sticky .ad-close {
+      position: absolute;
+      top: 50%;
+      right: 12px;
+      transform: translateY(-50%);
+      width: 30px;
+      height: 30px;
+      background: var(--bg-elevated);
+      border: 1px solid var(--glass-border);
+      border-radius: 50%;
+      color: var(--text-secondary);
+      font-size: 13px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      transition: all var(--duration-fast) ease;
+      z-index: 5;
+    }
+
+    .ad-sticky .ad-close:hover { background: var(--accent-primary); color: var(--bg-primary); }
+
+    @media (max-width: 768px) {
+      .ad-sticky { height: var(--ad-sticky-height-mobile); min-height: var(--ad-sticky-height-mobile); padding-right: 48px; }
+      .ad-sticky .ad-close { width: 26px; height: 26px; right: 10px; font-size: 12px; }
+    }
+
+    body.has-sticky-ad { padding-bottom: calc(var(--ad-sticky-height) + 12px); }
+    @media (max-width: 768px) { body.has-sticky-ad { padding-bottom: calc(var(--ad-sticky-height-mobile) + 12px); } }
+
+    /* HEADER */
+    .header {
+      position: sticky;
+      top: 0;
+      z-index: 100;
+      background: var(--glass-bg);
+      backdrop-filter: var(--glass-blur);
+      -webkit-backdrop-filter: var(--glass-blur);
+      border-bottom: 1px solid var(--glass-border);
+      padding: 10px 0;
+      transition: box-shadow var(--duration-medium) ease;
+    }
+
+    .header.scrolled { box-shadow: var(--shadow-md); }
+
+    .header-inner { display: flex; align-items: center; justify-content: space-between; gap: 12px; }
+
+    .logo { display: flex; align-items: center; gap: 8px; transition: opacity var(--duration-fast) ease; }
+    .logo:hover { opacity: 0.85; }
+
+    .logo-icon {
+      width: 36px;
+      height: 36px;
+      background: linear-gradient(135deg, var(--fire), var(--revenge));
+      border-radius: 9px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-size: 18px;
+      box-shadow: 0 3px 10px var(--fire-glow);
+    }
+
+    .logo-text { font-family: 'Space Grotesk', sans-serif; font-size: 1.35rem; font-weight: 700; color: var(--text-primary); }
+
+    .header-actions { display: flex; align-items: center; gap: 8px; flex-shrink: 0; }
+
+    .instagram-link {
+      flex-shrink: 0;
+      min-width: 36px;
+      width: 36px;
+      height: 36px;
+      background: linear-gradient(45deg, #f09433, #e6683c, #dc2743, #cc2366, #bc1888);
+      border-radius: 9px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      transition: opacity var(--duration-fast) ease;
+      box-shadow: 0 3px 10px rgba(225, 48, 108, 0.15);
+    }
+
+    .instagram-link:hover { opacity: 0.9; }
+    .instagram-link svg { width: 18px; height: 18px; fill: white; }
+
+    @media (max-width: 480px) {
+      .header-inner { gap: 6px; }
+      .mode-toggle { gap: 1px; padding: 2px; }
+      .mode-btn { width: 26px; height: 26px; font-size: 12px; }
+      .instagram-link { width: 32px; height: 32px; }
+      .instagram-link svg { width: 16px; height: 16px; }
+      .logo-icon { width: 32px; height: 32px; font-size: 16px; }
+      .logo-text { font-size: 1.15rem; }
+    }
+
+    .mode-toggle { display: flex; background: var(--bg-secondary); border: 1px solid var(--glass-border); border-radius: var(--radius-full); padding: 3px; gap: 2px; }
+
+    .mode-btn {
+      width: 30px;
+      height: 30px;
+      border-radius: 50%;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-size: 13px;
+      transition: all var(--duration-fast) ease;
+      color: var(--text-muted);
+    }
+
+    .mode-btn:hover { color: var(--text-primary); background: var(--accent-subtle); }
+    .mode-btn.active { background: var(--accent-primary); color: var(--bg-primary); box-shadow: 0 0 6px var(--accent-glow); }
+    [data-theme="light"] .mode-btn.active { color: #fff; }
+
+    /* FEATURED SECTION */
+    .featured-section { padding: var(--space-lg) 0 var(--space-md); }
+
+    .featured-card {
+      position: relative;
+      display: block;
+      width: 100%;
+      max-width: 880px;
+      margin: 0 auto;
+      border-radius: var(--radius-xl);
+      overflow: hidden;
+      background: var(--bg-card);
+      box-shadow: var(--shadow-lg);
+      cursor: pointer;
+      transition: transform var(--duration-medium) var(--ease-out), box-shadow var(--duration-medium) var(--ease-out);
+    }
+
+    .featured-card:hover { transform: translateY(-3px); box-shadow: var(--shadow-lg), 0 0 30px var(--fire-glow); }
+
+    .featured-thumbnail { position: relative; width: 100%; aspect-ratio: 2.5/1; overflow: hidden; }
+    @media (max-width: 768px) { .featured-thumbnail { aspect-ratio: 16/9; } }
+
+    .featured-thumbnail img { width: 100%; height: 100%; object-fit: cover; transition: transform 0.4s var(--ease-out); }
+    .featured-card:hover .featured-thumbnail img { transform: scale(1.02); }
+
+    .featured-overlay {
+      position: absolute;
+      inset: 0;
+      background: linear-gradient(90deg, rgba(10, 10, 15, 0.82) 0%, rgba(10, 10, 15, 0.5) 40%, rgba(10, 10, 15, 0.1) 70%, transparent 100%);
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      padding: 28px;
+    }
+
+    @media (max-width: 768px) {
+      .featured-overlay {
+        background: linear-gradient(0deg, rgba(10, 10, 15, 0.85) 0%, rgba(10, 10, 15, 0.4) 60%, rgba(10, 10, 15, 0.1) 100%);
+        justify-content: flex-end;
+        padding: 20px 16px;
+      }
+    }
+
+    .featured-badge {
+      display: inline-flex;
+      align-items: center;
+      gap: 5px;
+      background: var(--fire);
+      color: white;
+      font-size: 0.65rem;
+      font-weight: 700;
+      text-transform: uppercase;
+      letter-spacing: 1.5px;
+      padding: 5px 10px;
+      border-radius: var(--radius-full);
+      margin-bottom: 10px;
+      width: fit-content;
+    }
+
+    .featured-title { font-size: clamp(1.3rem, 3.5vw, 2.2rem); font-weight: 800; line-height: 1.15; margin-bottom: 8px; max-width: 420px; color: #fff; }
+
+    .featured-meta { display: flex; align-items: center; gap: 8px; flex-wrap: wrap; margin-bottom: 10px; }
+
+    .featured-tag {
+      font-size: 0.75rem;
+      color: rgba(255, 255, 255, 0.85);
+      background: rgba(255, 255, 255, 0.12);
+      padding: 3px 8px;
+      border-radius: var(--radius-sm);
+    }
+
+    .featured-trust { display: flex; align-items: center; gap: 10px; flex-wrap: wrap; margin-bottom: 12px; }
+
+    .trust-signal {
+      display: inline-flex;
+      align-items: center;
+      gap: 4px;
+      font-size: 0.72rem;
+      font-weight: 600;
+      color: rgba(255, 255, 255, 0.9);
+      background: rgba(255, 255, 255, 0.1);
+      backdrop-filter: blur(8px);
+      padding: 4px 10px;
+      border-radius: var(--radius-full);
+    }
+
+    .featured-cta {
+      display: inline-flex;
+      align-items: center;
+      gap: 8px;
+      background: #fff;
+      color: var(--fire);
+      font-weight: 800;
+      font-size: 0.95rem;
+      padding: 13px 28px;
+      border-radius: var(--radius-full);
+      width: fit-content;
+      transition: all var(--duration-fast) ease;
+      box-shadow: 0 4px 16px rgba(0, 0, 0, 0.2);
+      min-height: 48px;
+      position: relative;
+      overflow: hidden;
+      border: none;
+      cursor: pointer;
+    }
+
+    .featured-cta:hover { transform: scale(1.03); box-shadow: 0 6px 24px rgba(0, 0, 0, 0.25); }
+
+    /* BUTTON COUNTDOWN STATE */
+    .drama-cta.counting-down {
+      background: var(--fire) !important;
+      cursor: wait;
+      pointer-events: none;
+    }
+
+    .featured-cta.counting-down {
+      background: var(--fire) !important;
+      color: #fff !important;
+      cursor: wait;
+      pointer-events: none;
+    }
+
+    /* SEARCH */
+    .search-section { padding: var(--space-sm) 0 var(--space-md); }
+    .search-wrapper { max-width: 600px; margin: 0 auto; }
+
+    .search-box {
+      position: relative;
+      background: var(--bg-card);
+      border: 1.5px solid var(--glass-border);
+      border-radius: var(--radius-xl);
+      padding: 3px;
+      transition: border-color var(--duration-fast) ease, box-shadow var(--duration-fast) ease;
+      box-shadow: var(--shadow-sm);
+    }
+
+    .search-box:focus-within { border-color: var(--accent-primary); box-shadow: var(--shadow-md), 0 0 0 3px var(--accent-subtle); }
+
+    .search-input {
+      width: 100%;
+      padding: 14px 20px 14px 48px;
+      font-size: 0.95rem;
+      font-family: inherit;
+      background: transparent;
+      border: none;
+      color: var(--text-primary);
+      outline: none;
+    }
+
+    .search-input::placeholder { color: var(--text-muted); }
+
+    .search-icon {
+      position: absolute;
+      left: 18px;
+      top: 50%;
+      transform: translateY(-50%);
+      font-size: 1.1rem;
+      color: var(--text-muted);
+      pointer-events: none;
+      transition: color var(--duration-fast) ease;
+    }
+
+    .search-box:focus-within .search-icon { color: var(--accent-primary); }
+
+    /* DRAMAS GRID */
+    .dramas-section { padding: var(--space-xs) 0 var(--space-lg); }
+
+    .section-header { display: flex; align-items: center; justify-content: space-between; margin-bottom: var(--space-md); flex-wrap: wrap; gap: 8px; }
+
+    .section-title { font-size: 1.25rem; display: flex; align-items: center; gap: 10px; letter-spacing: 0.2px; }
+
+    .section-title::before { content: ''; width: 3px; height: 22px; background: linear-gradient(180deg, var(--fire), var(--revenge)); border-radius: 2px; }
+
+    .drama-count { font-size: 0.78rem; color: var(--text-muted); background: var(--bg-secondary); padding: 5px 12px; border-radius: var(--radius-full); }
+
+    .dramas-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(260px, 1fr)); gap: var(--space-md); }
+    @media (min-width: 1024px) { .dramas-grid { grid-template-columns: repeat(3, 1fr); } }
+
+    /* DRAMA CARD */
+    .drama-card {
+      position: relative;
+      background: var(--bg-card);
+      border: 1px solid var(--glass-border);
+      border-radius: var(--radius-lg);
+      overflow: hidden;
+      cursor: pointer;
+      transition: transform var(--duration-medium) var(--ease-out), box-shadow var(--duration-medium) var(--ease-out);
+      box-shadow: var(--shadow-card);
+    }
+
+    .drama-card.animate-in { opacity: 0; transform: translateY(6px); animation: cardFadeIn 0.25s var(--ease-out) forwards; }
+
+    @keyframes cardFadeIn { to { opacity: 1; transform: translateY(0); } }
+
+    .drama-card:hover { transform: translateY(-3px); box-shadow: var(--shadow-lg); }
+
+    .trending-badge {
+      position: absolute;
+      top: -1px;
+      left: -1px;
+      z-index: 10;
+      background: linear-gradient(135deg, var(--fire), #ff6b35);
+      color: white;
+      font-size: 0.6rem;
+      font-weight: 800;
+      text-transform: uppercase;
+      letter-spacing: 0.8px;
+      padding: 5px 10px;
+      border-radius: 0 0 var(--radius-sm) 0;
+      box-shadow: 0 3px 10px var(--fire-glow);
+    }
+
+    .drama-card-link { display: block; text-decoration: none; color: inherit; }
+
+    .drama-thumbnail { position: relative; aspect-ratio: 16/9; overflow: hidden; }
+
+    .drama-thumbnail img { width: 100%; height: 100%; object-fit: cover; transition: transform 0.35s var(--ease-out); }
+
+    .drama-card:hover .drama-thumbnail img { transform: scale(1.03); }
+
+    .drama-thumbnail::after {
+      content: '';
+      position: absolute;
+      inset: 0;
+      background: linear-gradient(0deg, rgba(0, 0, 0, 0.45) 0%, rgba(0, 0, 0, 0.1) 40%, rgba(0, 0, 0, 0) 100%);
+      pointer-events: none;
+    }
+
+    .emotion-tag {
+      position: absolute;
+      top: 10px;
+      left: 10px;
+      z-index: 2;
+      font-size: 0.68rem;
+      font-weight: 700;
+      text-transform: uppercase;
+      letter-spacing: 0.4px;
+      padding: 6px 10px;
+      border-radius: 6px;
+      background: rgba(255, 255, 255, 0.95);
+      color: var(--text-primary);
+      display: flex;
+      align-items: center;
+      gap: 4px;
+      box-shadow: var(--shadow-sm);
+    }
+
+    .emotion-tag.fire { background: var(--fire); color: white; }
+    .emotion-tag.heart { background: var(--heart); color: white; }
+    .emotion-tag.chaos { background: var(--chaos); color: white; }
+    .emotion-tag.revenge { background: var(--revenge); color: white; }
+    .emotion-tag.mind { background: var(--mind); color: #1a1a2e; }
+    .emotion-tag.sad { background: var(--sad); color: white; }
+
+    .drama-rating {
+      position: absolute;
+      top: 10px;
+      right: 10px;
+      z-index: 2;
+      font-size: 0.75rem;
+      font-weight: 600;
+      color: #ffd700;
+      background: rgba(0, 0, 0, 0.65);
+      backdrop-filter: blur(6px);
+      padding: 4px 8px;
+      border-radius: 6px;
+      display: flex;
+      align-items: center;
+      gap: 3px;
+    }
+
+    .drama-content { position: relative; z-index: 2; padding: 12px 14px 14px; }
+
+    .drama-title { font-size: 0.95rem; font-weight: 600; margin-bottom: 10px; display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; line-height: 1.35; }
+
+    .drama-cta {
+      display: inline-flex;
+      align-items: center;
+      gap: 5px;
+      background: var(--accent-primary);
+      color: #fff;
+      font-size: 0.82rem;
+      font-weight: 700;
+      padding: 10px 20px;
+      border-radius: var(--radius-full);
+      transition: opacity var(--duration-fast) ease, box-shadow var(--duration-fast) ease;
+      border: none;
+      cursor: pointer;
+      min-height: 42px;
+      position: relative;
+      z-index: 5;
+      width: 100%;
+      justify-content: center;
+    }
+
+    [data-theme="light"] .drama-cta { background: var(--text-primary); }
+    .drama-cta:hover { opacity: 0.92; box-shadow: 0 3px 10px var(--accent-glow); }
+
+    .no-results { grid-column: 1 / -1; text-align: center; padding: 48px 16px; color: var(--text-muted); }
+    .no-results-icon { font-size: 2.5rem; margin-bottom: 12px; opacity: 0.5; }
+    .no-results-text { font-size: 1rem; }
+
+    /* SHOW MORE BUTTON */
+    .show-more-btn {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      gap: 8px;
+      margin: var(--space-lg) auto 0;
+      padding: 14px 32px;
+      background: var(--accent-primary);
+      color: #fff;
+      font-size: 0.95rem;
+      font-weight: 700;
+      border-radius: var(--radius-full);
+      border: none;
+      cursor: pointer;
+      transition: all var(--duration-fast) ease;
+      min-height: 48px;
+    }
+
+    [data-theme="light"] .show-more-btn { background: var(--text-primary); }
+    .show-more-btn:hover { opacity: 0.9; transform: scale(1.02); }
+    .show-more-btn:disabled { opacity: 0.5; cursor: not-allowed; transform: none; }
+
+    /* COMMENTS */
+    .comments-section { padding: var(--space-md) 0 var(--space-lg); }
+
+    .comments-container { max-width: 640px; margin: 0 auto; background: var(--bg-card); border: 1px solid var(--glass-border); border-radius: var(--radius-xl); padding: 22px; }
+
+    .comments-header { margin-bottom: 18px; }
+    .comments-title { font-size: 1.1rem; display: flex; align-items: center; gap: 8px; }
+    .comments-subtitle { font-size: 0.78rem; color: var(--text-muted); margin-top: 4px; }
+
+    .comment-form { margin-bottom: 22px; padding-bottom: 22px; border-bottom: 1px solid var(--glass-border); }
+
+    .form-group { margin-bottom: 10px; }
+
+    .form-input, .form-textarea {
+      width: 100%;
+      padding: 11px 14px;
+      font-size: 0.88rem;
+      font-family: inherit;
+      background: var(--bg-secondary);
+      border: 1px solid var(--glass-border);
+      border-radius: var(--radius-md);
+      color: var(--text-primary);
+      transition: all var(--duration-fast) ease;
+    }
+
+    .form-input:focus, .form-textarea:focus { outline: none; border-color: var(--accent-primary); box-shadow: 0 0 0 2px var(--accent-subtle); }
+    .form-textarea { min-height: 80px; resize: vertical; }
+
+    .submit-btn {
+      background: var(--accent-primary);
+      color: #fff;
+      font-weight: 700;
+      padding: 11px 24px;
+      border-radius: var(--radius-full);
+      font-size: 0.88rem;
+      transition: opacity var(--duration-fast) ease, box-shadow var(--duration-fast) ease;
+      min-height: 44px;
+    }
+
+    .submit-btn:disabled { opacity: 0.5; cursor: not-allowed; }
+    [data-theme="light"] .submit-btn { background: var(--text-primary); }
+    .submit-btn:hover:not(:disabled) { opacity: 0.9; box-shadow: 0 3px 10px var(--accent-glow); }
+
+    .comment-notice { font-size: 0.72rem; color: var(--text-muted); margin-top: 8px; }
+    .comment-error { color: var(--fire); font-size: 0.8rem; margin-top: 6px; }
+
+    .comment-list { display: flex; flex-direction: column; gap: 10px; }
+
+    .comment-item { display: flex; gap: 10px; padding: 12px; background: var(--bg-secondary); border-radius: var(--radius-md); transition: background var(--duration-fast) ease; }
+    .comment-item:hover { background: var(--bg-card-hover); }
+
+    .comment-avatar {
+      width: 36px;
+      height: 36px;
+      border-radius: 50%;
+      background: linear-gradient(135deg, var(--fire), var(--revenge));
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-weight: 700;
+      font-size: 0.85rem;
+      flex-shrink: 0;
+      color: #fff;
+    }
+
+    .comment-body { flex: 1; min-width: 0; }
+    .comment-header { display: flex; align-items: center; gap: 8px; margin-bottom: 4px; }
+    .comment-name { font-weight: 600; font-size: 0.85rem; }
+    .comment-time { font-size: 0.7rem; color: var(--text-muted); }
+    .comment-text { color: var(--text-secondary); font-size: 0.82rem; line-height: 1.5; word-break: break-word; }
+
+    .no-comments { text-align: center; color: var(--text-muted); padding: 30px; }
+
+    .view-more-btn {
+      width: 100%;
+      padding: 11px;
+      margin-top: 12px;
+      background: var(--bg-secondary);
+      border: 1px solid var(--glass-border);
+      border-radius: var(--radius-md);
+      color: var(--text-secondary);
+      font-weight: 600;
+      font-size: 0.85rem;
+      transition: all var(--duration-fast) ease;
+      min-height: 42px;
+    }
+
+    .view-more-btn:hover { background: var(--bg-card-hover); color: var(--accent-primary); }
+    .hidden { display: none !important; }
+
+    /* FOOTER */
+    .footer { background: var(--bg-secondary); border-top: 1px solid var(--glass-border); padding: 32px 0 24px; margin-top: var(--space-lg); }
+
+    .footer-inner { text-align: center; }
+
+    .footer-logo { display: inline-flex; align-items: center; gap: 6px; margin-bottom: 14px; }
+
+    .footer-logo-icon {
+      width: 28px;
+      height: 28px;
+      background: linear-gradient(135deg, var(--fire), var(--revenge));
+      border-radius: 7px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-size: 14px;
+    }
+
+    .footer-logo-text { font-family: 'Space Grotesk', sans-serif; font-size: 1.05rem; font-weight: 700; color: var(--text-primary); }
+
+    .footer-links { display: flex; justify-content: center; gap: 18px; margin-bottom: 14px; flex-wrap: wrap; }
+
+    .footer-links a { color: var(--text-secondary); font-size: 0.82rem; transition: color var(--duration-fast) ease; padding: 6px 0; }
+    .footer-links a:hover { color: var(--accent-primary); }
+    .copyright { font-size: 0.72rem; color: var(--text-muted); }
+
+    /* FABs */
+    .fab {
+      position: fixed;
+      bottom: 20px;
+      right: 16px;
+      width: 48px;
+      height: 48px;
+      border-radius: 50%;
+      background: var(--accent-primary);
+      box-shadow: var(--shadow-md);
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-size: 1.15rem;
+      z-index: 95;
+      transition: opacity var(--duration-fast) ease, box-shadow var(--duration-fast) ease;
+    }
+
+    [data-theme="light"] .fab { background: var(--text-primary); color: #fff; }
+    .fab:hover { opacity: 0.9; box-shadow: var(--shadow-lg); }
+
+    .fab-insta {
+      position: fixed;
+      bottom: 80px;
+      right: 16px;
+      width: 48px;
+      height: 48px;
+      border-radius: 50%;
+      background: linear-gradient(45deg, #f09433, #e6683c, #dc2743, #cc2366, #bc1888);
+      box-shadow: 0 3px 10px rgba(225, 48, 108, 0.15);
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      z-index: 95;
+      transition: opacity var(--duration-fast) ease;
+    }
+
+    .fab-insta:hover { opacity: 0.9; }
+    .fab-insta svg { width: 22px; height: 22px; fill: white; }
+
+    body.has-sticky-ad .fab { bottom: calc(var(--ad-sticky-height) + 20px); }
+    body.has-sticky-ad .fab-insta { opacity: 0; pointer-events: none; }
+
+    @media (max-width: 480px) {
+      .fab, .fab-insta { width: 44px; height: 44px; right: 12px; }
+      .fab { bottom: 16px; }
+      .fab-insta { bottom: 72px; }
+      body.has-sticky-ad .fab { bottom: calc(var(--ad-sticky-height-mobile) + 16px); }
+      body.has-sticky-ad .fab-insta { opacity: 0; pointer-events: none; }
+    }
+
+    /* POLICY PAGES */
+    .policy-page { display: none; max-width: 640px; margin: 0 auto; padding: 40px 16px; }
+    .policy-page.active { display: block; }
+
+    .policy-page h1 { font-size: 1.6rem; margin-bottom: 24px; padding-bottom: 14px; border-bottom: 1px solid var(--glass-border); }
+    .policy-page h2 { font-size: 1.15rem; margin: 28px 0 12px; color: var(--text-primary); }
+    .policy-page p { margin-bottom: 12px; line-height: 1.65; color: var(--text-secondary); font-size: 0.9rem; }
+    .policy-page ul { margin: 12px 0 12px 18px; color: var(--text-secondary); }
+    .policy-page ul li { margin-bottom: 6px; line-height: 1.55; font-size: 0.9rem; }
+    .policy-page a { color: var(--accent-primary); text-decoration: underline; }
+    .policy-page a:hover { opacity: 0.8; }
+
+    .policy-page .last-updated { font-size: 0.75rem; color: var(--text-muted); margin-top: 32px; padding-top: 14px; border-top: 1px solid var(--glass-border); }
+
+    .back-home-link {
+      display: inline-flex;
+      align-items: center;
+      gap: 5px;
+      margin-bottom: 22px;
+      padding: 10px 20px;
+      background: var(--accent-primary);
+      color: #fff;
+      border-radius: var(--radius-full);
+      font-weight: 600;
+      font-size: 0.88rem;
+      transition: opacity var(--duration-fast) ease;
+      min-height: 42px;
+    }
+
+    [data-theme="light"] .back-home-link { background: var(--text-primary); }
+    .back-home-link:hover { opacity: 0.9; }
+
+    body.policy-active .main-content { display: none; }
+    body.policy-active .policy-page.active { display: block; }
+
+    @media (prefers-reduced-motion: reduce) {
+      *, *::before, *::after { animation-duration: 0.01ms !important; animation-iteration-count: 1 !important; transition-duration: 0.01ms !important; }
+    }
+  </style>
+</head>
+<body>
+
+  <header class="header" role="banner">
+    <div class="container header-inner">
+      <a href="/" class="logo" aria-label="edgetakes Home">
+        <span class="logo-icon">🎬</span>
+        <span class="logo-text">edgetakes</span>
+      </a>
+
+      <div class="header-actions">
+        <div class="mode-toggle" role="group" aria-label="Theme switcher">
+          <button class="mode-btn" data-theme="dark" aria-label="Dark mode" title="Dark">🌙</button>
+          <button class="mode-btn active" data-theme="light" aria-label="Light mode" title="Light">☀️</button>
+          <button class="mode-btn" data-theme="red" aria-label="Red mode" title="Red">🔥</button>
+        </div>
+
+        <a href="https://www.instagram.com/edgetakes?igsh=MW9qaWpnNTU3OTB2dg=="
+           target="_blank"
+           rel="noopener noreferrer"
+           class="instagram-link"
+           aria-label="Follow edgetakes on Instagram">
+          <svg viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+            <path d="M12 2.163c3.204 0 3.584.012 4.85.07 3.252.148 4.771 1.691 4.919 4.919.058 1.265.069 1.645.069 4.849 0 3.205-.012 3.584-.069 4.849-.149 3.225-1.664 4.771-4.919 4.919-1.266.058-1.644.07-4.85.07-3.204 0-3.584-.012-4.849-.07-3.26-.149-4.771-1.699-4.919-4.92-.058-1.265-.07-1.644-.07-4.849 0-3.204.013-3.583.07-4.849.149-3.227 1.664-4.771 4.919-4.919 1.266-.057 1.645-.069 4.849-.069zm0-2.163c-3.259 0-3.667.014-4.947.072-4.358.2-6.78 2.618-6.98 6.98-.059 1.281-.073 1.689-.073 4.948 0 3.259.014 3.668.072 4.948.2 4.358 2.618 6.78 6.98 6.98 1.281.058 1.689.072 4.948.072 3.259 0 3.668-.014 4.948-.072 4.354-.2 6.782-2.618 6.979-6.98.059-1.28.073-1.689.073-4.948 0-3.259-.014-3.667-.072-4.947-.196-4.354-2.617-6.78-6.979-6.98-1.281-.059-1.69-.073-4.949-.073zm0 5.838c-3.403 0-6.162 2.759-6.162 6.162s2.759 6.163 6.162 6.163 6.162-2.759 6.162-6.163c0-3.403-2.759-6.162-6.162-6.162zm0 10.162c-2.209 0-4-1.79-4-4 0-2.209 1.791-4 4-4s4 1.791 4 4c0 2.21-1.791 4-4 4zm6.406-11.845c-.796 0-1.441.645-1.441 1.44s.645 1.44 1.441 1.44c.795 0 1.439-.645 1.439-1.44s-.644-1.44-1.439-1.44z"/>
+          </svg>
+        </a>
+      </div>
+    </div>
+  </header>
+
+  <!-- POLICY PAGES -->
+  <div id="policy-privacy" class="policy-page" aria-label="Privacy Policy">
+    <a href="/" class="back-home-link">← Back to Home</a>
+    <h1>Privacy Policy</h1>
+    <h2>1. Information We Collect</h2>
+    <p>At edgetakes, we collect certain information to provide you with the best experience:</p>
+    <ul>
+      <li><strong>Comments:</strong> Name and text when you submit comments</li>
+      <li><strong>Usage Data:</strong> IP address, browser type, and device information</li>
+      <li><strong>Cookies:</strong> Small data files to enhance user experience</li>
+    </ul>
+    <h2>2. How We Use Your Information</h2>
+    <p>We use collected information to display community comments, improve functionality, analyze traffic, and respond to inquiries.</p>
+    <h2>3. Third-Party Advertising</h2>
+    <p>We use third-party advertising companies to serve ads. These companies may use cookies to collect information about your visits.</p>
+    <h2>4. Contact Us</h2>
+    <p>Questions? Contact us through our Instagram.</p>
+    <p class="last-updated"><strong>Last Updated:</strong> January 2025</p>
+  </div>
+
+  <div id="policy-terms" class="policy-page" aria-label="Terms of Service">
+    <a href="/" class="back-home-link">← Back to Home</a>
+    <h1>Terms of Service</h1>
+    <h2>1. Acceptance of Terms</h2>
+    <p>By accessing edgetakes, you agree to be bound by these Terms of Service.</p>
+    <h2>2. Streaming Links</h2>
+    <p>edgetakes provides links to third-party streaming platforms. We do not host video content.</p>
+    <h2>3. Advertising</h2>
+    <p>This website displays advertisements. By using this site, you acknowledge ads are part of the experience.</p>
+    <p class="last-updated"><strong>Last Updated:</strong> January 2025</p>
+  </div>
+
+  <div id="policy-disclaimer" class="policy-page" aria-label="Disclaimer">
+    <a href="/" class="back-home-link">← Back to Home</a>
+    <h1>Disclaimer</h1>
+    <h2>1. General Disclaimer</h2>
+    <p>Information provided by edgetakes is for general informational and entertainment purposes only.</p>
+    <h2>2. External Links</h2>
+    <p>edgetakes contains links to external websites not maintained by us. We are not responsible for their content.</p>
+    <p class="last-updated"><strong>Last Updated:</strong> January 2025</p>
+  </div>
+
+  <div id="policy-dmca" class="policy-page" aria-label="DMCA Policy">
+    <a href="/" class="back-home-link">← Back to Home</a>
+    <h1>DMCA Policy</h1>
+    <h2>1. Copyright Notice</h2>
+    <p>edgetakes respects the intellectual property rights of others. All content, images, and trademarks belong to their respective owners.</p>
+    <h2>2. Reporting Infringement</h2>
+    <p>If you believe content on edgetakes infringes your copyright, please contact us via Instagram with the following information:</p>
+    <ul>
+      <li>Identification of the copyrighted work claimed to be infringed</li>
+      <li>Description of the infringing material and its location on our site</li>
+      <li>Your contact information</li>
+      <li>A statement that you have a good faith belief that the use is not authorized</li>
+    </ul>
+    <h2>3. Response Process</h2>
+    <p>Upon receiving a valid DMCA notice, we will promptly remove or disable access to the allegedly infringing content. We may also contact the content provider.</p>
+    <h2>4. Fair Use</h2>
+    <p>edgetakes may feature copyrighted material for commentary, criticism, or educational purposes under fair use provisions. Such use does not constitute infringement.</p>
+    <p class="last-updated"><strong>Last Updated:</strong> January 2025</p>
+  </div>
+
+  <!-- MAIN CONTENT -->
+  <main class="main-content">
+
+    <!-- FEATURED -->
+    <section class="featured-section container" aria-label="Featured Drama">
+      <article id="featured-card" class="featured-card">
+        <div class="featured-thumbnail">
+          <img id="featured-image" src="" alt="Featured Drama" loading="eager" decoding="async">
+        </div>
+        <div class="featured-overlay">
+          <span class="featured-badge">🔥 Trending on Reels</span>
+          <h1 class="featured-title" id="featured-title">Loading...</h1>
+          <div class="featured-meta">
+            <span class="featured-tag" id="featured-category">School</span>
+            <span class="featured-tag" id="featured-vibe">Revenge</span>
+          </div>
+          <div class="featured-trust">
+            <span class="trust-signal">⭐ <span id="featured-rating-signal">9.4</span> Rating</span>
+            <span class="trust-signal">🔥 #1 on Reels</span>
+            <span class="trust-signal">💬 12K reactions</span>
+          </div>
+          <button class="featured-cta" id="featured-cta" type="button">▶ Watch Why Everyone's Talking</button>
+        </div>
+      </article>
+    </section>
+
+    <!-- AD after featured -->
+    <div class="monetization-slot" id="monetization-featured-search"></div>
+
+    <!-- SEARCH -->
+    <section class="search-section container" aria-label="Search">
+      <div class="search-wrapper">
+        <div class="search-box">
+          <input type="search" class="search-input" id="search-input"
+                 placeholder="Search the drama everyone's obsessed with..."
+                 aria-label="Search dramas" autocomplete="off">
+          <span class="search-icon" aria-hidden="true">🔍</span>
+        </div>
+      </div>
+    </section>
+
+    <!-- DRAMAS GRID -->
+    <section id="dramas" class="dramas-section container" aria-label="Drama collection">
+      <div class="section-header">
+        <h2 class="section-title">Trending Dramas</h2>
+        <span class="drama-count" id="drama-count">0 dramas</span>
+      </div>
+      <div class="dramas-grid" id="dramas-grid"></div>
+      <button id="show-more-posts" class="show-more-btn">Show More</button>
+    </section>
+
+    <!-- AD after grid -->
+    <div class="monetization-slot" id="monetization-after-pagination"></div>
+
+    <!-- COMMENTS -->
+    <section class="comments-section container" aria-label="Community Comments">
+      <div class="comments-container">
+        <header class="comments-header">
+          <h2 class="comments-title">💬 Community</h2>
+          <p class="comments-subtitle">Join the discussion — what drama has you hooked?</p>
+        </header>
+
+        <form id="comment-form" class="comment-form">
+          <div class="form-group">
+            <input type="text" id="comment-name" class="form-input" placeholder="Your name" maxlength="50" required>
+          </div>
+          <div class="form-group">
+            <textarea id="comment-text" class="form-textarea" placeholder="Share your thoughts..." maxlength="500" required></textarea>
+          </div>
+          <button type="submit" id="submit-btn" class="submit-btn">Publish</button>
+          <p id="comment-error" class="comment-error hidden"></p>
+          <p class="comment-notice">Be respectful. Your comment will appear after posting.</p>
+        </form>
+
+        <div id="comment-list" class="comment-list">
+          <p class="no-comments">Loading comments...</p>
+        </div>
+
+        <button id="view-more-btn" class="view-more-btn hidden">View more comments</button>
+      </div>
+    </section>
+  </main>
+
+  <footer class="footer">
+    <div class="container footer-inner">
+      <a href="/" class="footer-logo">
+        <span class="footer-logo-icon">🎬</span>
+        <span class="footer-logo-text">edgetakes</span>
+      </a>
+      <nav class="footer-links">
+        <a href="?policy=privacy">Privacy Policy</a>
+        <a href="?policy=terms">Terms of Service</a>
+        <a href="?policy=disclaimer">Disclaimer</a>
+        <a href="?policy=dmca">DMCA</a>
+        <a href="https://www.instagram.com/edgetakes" target="_blank" rel="noopener">Instagram</a>
+      </nav>
+      <p class="copyright">© 2025 edgetakes. All rights reserved.</p>
+    </div>
+  </footer>
+
+  <button id="fab-search" class="fab" aria-label="Search">🔍</button>
+  <a href="https://www.instagram.com/edgetakes" target="_blank" rel="noopener" class="fab-insta" aria-label="Follow on Instagram">
+    <svg viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+      <path d="M12 2.163c3.204 0 3.584.012 4.85.07 3.252.148 4.771 1.691 4.919 4.919.058 1.265.069 1.645.069 4.849 0 3.205-.012 3.584-.069 4.849-.149 3.225-1.664 4.771-4.919 4.919-1.266.058-1.644.07-4.85.07-3.204 0-3.584-.012-4.849-.07-3.26-.149-4.771-1.699-4.919-4.92-.058-1.265-.07-1.644-.07-4.849 0-3.204.013-3.583.07-4.849.149-3.227 1.664-4.771 4.919-4.919 1.266-.057 1.645-.069 4.849-.069zm0-2.163c-3.259 0-3.667.014-4.947.072-4.358.2-6.78 2.618-6.98 6.98-.059 1.281-.073 1.689-.073 4.948 0 3.259.014 3.668.072 4.948.2 4.358 2.618 6.78 6.98 6.98 1.281.058 1.689.072 4.948.072 3.259 0 3.668-.014 4.948-.072 4.354-.2 6.782-2.618 6.979-6.98.059-1.28.073-1.689.073-4.948 0-3.259-.014-3.667-.072-4.947-.196-4.354-2.617-6.78-6.979-6.98-1.281-.059-1.69-.073-4.949-.073zm0 5.838c-3.403 0-6.162 2.759-6.162 6.162s2.759 6.163 6.162 6.163 6.162-2.759 6.162-6.163c0-3.403-2.759-6.162-6.162-6.162zm0 10.162c-2.209 0-4-1.79-4-4 0-2.209 1.791-4 4-4s4 1.791 4 4c0 2.21-1.791 4-4 4zm6.406-11.845c-.796 0-1.441.645-1.441 1.44s.645 1.44 1.441 1.44c.795 0 1.439-.645 1.439-1.44s-.644-1.44-1.439-1.44z"/>
+    </svg>
+  </a>
+
+  <div class="ad-sticky" id="ad-sticky" aria-hidden="true">
+    <div class="ad-container" data-ad-slot="sticky-banner" style="width:100%;height:100%;"></div>
+    <button class="ad-close" aria-label="Close ad">✕</button>
+  </div>
+
+  <script>
+    (function() {
+      'use strict';
+
+      const Utils = {
+        debounce(fn, delay) {
+          let timer;
+          return function(...args) {
+            clearTimeout(timer);
+            timer = setTimeout(() => fn.apply(this, args), delay);
+          };
+        },
+
+        throttle(fn, limit) {
+          let inThrottle;
+          return function(...args) {
+            if (!inThrottle) {
+              fn.apply(this, args);
+              inThrottle = true;
+              setTimeout(() => inThrottle = false, limit);
+            }
+          };
+        },
+
+        escapeHtml(text) {
+          if (!text) return '';
+          const map = { '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' };
+          return String(text).replace(/[&<>"']/g, m => map[m]);
+        },
+
+        $(selector, parent = document) {
+          return parent.querySelector(selector);
+        },
+
+        $$(selector, parent = document) {
+          return parent.querySelectorAll(selector);
+        },
+
+        getStorage(key, defaultValue = null, storage = localStorage) {
+          try {
+            const value = storage.getItem(key);
+            return value !== null ? value : defaultValue;
+          } catch (e) {
+            return defaultValue;
+          }
+        },
+
+        setStorage(key, value, storage = localStorage) {
+          try {
+            storage.setItem(key, value);
+            return true;
+          } catch (e) {
+            return false;
+          }
+        },
+
+        formatRelativeTime(timestamp) {
+          const diff = Math.floor((Date.now() - new Date(timestamp)) / 1000);
+          if (diff < 60) return 'Just now';
+          if (diff < 3600) return Math.floor(diff / 60) + 'm ago';
+          if (diff < 86400) return Math.floor(diff / 3600) + 'h ago';
+          if (diff < 604800) return Math.floor(diff / 86400) + 'd ago';
+          return new Date(timestamp).toLocaleDateString();
+        }
+      };
+
+      // Per-Post Two Link System - Link Manager
+      const LinkManager = {
+        // Track active countdowns per slug to prevent double-click spam
+        activeCountdowns: new Set(),
+
+        // Generate localStorage key per post
+        getClickKey(slug) {
+          return `click_${slug}`;
+        },
+
+        // Check if user has clicked this specific post before
+        hasClickedBefore(slug) {
+          return localStorage.getItem(this.getClickKey(slug)) === '1';
+        },
+
+        // Mark this post as clicked
+        setClicked(slug) {
+          localStorage.setItem(this.getClickKey(slug), '1');
+        },
+
+        // Start countdown inside the button element
+        startButtonCountdown(button, seconds, callback, originalText) {
+          if (!button) {
+            callback();
+            return;
+          }
+
+          let remaining = seconds;
+
+          // Mark button as counting down
+          button.classList.add('counting-down');
+          button.textContent = `Preparing... ${remaining}`;
+
+          const interval = setInterval(() => {
+            remaining--;
+            
+            if (remaining > 0) {
+              button.textContent = `Preparing... ${remaining}`;
+            } else {
+              clearInterval(interval);
+              button.classList.remove('counting-down');
+              button.textContent = originalText;
+              callback();
+            }
+          }, 1000);
+        },
+
+        // Handle click for drama cards - passes button element
+        handleClick(drama, buttonElement) {
+          if (!drama || !drama.watchLinks || drama.watchLinks.length < 2) {
+            return;
+          }
+
+          const slug = drama.slug;
+
+          // Prevent double-click spam during countdown
+          if (this.activeCountdowns.has(slug)) {
+            return;
+          }
+
+          if (!this.hasClickedBefore(slug)) {
+            // First click for this specific post - open monetized link
+            window.open(drama.watchLinks[0], '_blank');
+            this.setClicked(slug);
+          } else {
+            // Second click for same post - show countdown then open real link
+            this.activeCountdowns.add(slug);
+            
+            this.startButtonCountdown(buttonElement, 5, () => {
+              window.open(drama.watchLinks[1], '_blank');
+              this.activeCountdowns.delete(slug);
+            }, '▶ Watch Now');
+          }
+        },
+
+        // Handle click for featured card - different button text
+        handleFeaturedClick(drama, buttonElement) {
+          if (!drama || !drama.watchLinks || drama.watchLinks.length < 2) {
+            return;
+          }
+
+          const slug = drama.slug;
+
+          // Prevent double-click spam during countdown
+          if (this.activeCountdowns.has(slug)) {
+            return;
+          }
+
+          if (!this.hasClickedBefore(slug)) {
+            // First click - open monetized link
+            window.open(drama.watchLinks[0], '_blank');
+            this.setClicked(slug);
+          } else {
+            // Second click - show countdown then open real link
+            this.activeCountdowns.add(slug);
+            
+            this.startButtonCountdown(buttonElement, 5, () => {
+              window.open(drama.watchLinks[1], '_blank');
+              this.activeCountdowns.delete(slug);
+            }, "▶ Watch Why Everyone's Talking");
+          }
+        }
+      };
+
+      const ContentData = {
+        config: {
+          featuredSlug: null,
+          featuredHeadline: "She waited 18 years. Now it's their turn to suffer."
+        },
+
+        dramas: [
+          {
+            slug: 'the-glory',
+            title: 'The Glory',
+            emotionTag: '😈 Revenge served cold',
+            emotionClass: 'revenge',
+            category: 'revenge',
+            rating: '9.4',
+            isTrending: false,
+            thumbnail: 'https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?w=480&h=300&fit=crop',
+            watchLinks: [
+              'https://www.effectivegatecpm.com/g2cr05tw?key=d8be84b0e258e182bc2821ea7849147b',
+              'https://www.effectivegatecpm.com/g2cr05tw?key=d8be84b0e258e182bc2821ea7849147b'
+            ],
+            description: 'A woman dedicates her life to getting revenge on her childhood bullies.'
+          },
+          {
+            slug: 'weak-hero-class-1',
+            title: 'Weak Hero Class 1',
+            emotionTag: '🔥 School fights went too far',
+            emotionClass: 'fire',
+            category: 'fighting',
+            rating: '9.2',
+            isTrending: true,
+            thumbnail: 'https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?w=480&h=300&fit=crop',
+            watchLinks: [
+              'https://www.effectivegatecpm.com/g2cr05tw?key=d8be84b0e258e182bc2821ea7849147b',
+              'https://www.effectivegatecpm.com/g2cr05tw?key=d8be84b0e258e182bc2821ea7849147b'
+            ],
+            description: 'A brilliant student fights back against school bullies with strategic thinking.'
+          },
+          {
+            slug: 'goblin',
+            title: 'Goblin',
+            emotionTag: '😭 I wasn\'t ready for this',
+            emotionClass: 'sad',
+            category: 'emotional',
+            rating: '9.5',
+            isTrending: false,
+            thumbnail: 'https://images.unsplash.com/photo-1531746020798-e6953c6e8e04?w=480&h=300&fit=crop',
+            watchLinks: [
+              'https://www.effectivegatecpm.com/g2cr05tw?key=d8be84b0e258e182bc2821ea7849147b',
+              'goblin.html'
+            ],
+            description: 'An immortal goblin searches for his bride who can end his immortal life.'
+          },
+          {
+            slug: 'crash-landing-on-you',
+            title: 'Crash Landing on You',
+            emotionTag: '😭 Love that hurts',
+            emotionClass: 'sad',
+            category: 'emotional',
+            rating: '9.3',
+            isTrending: false,
+            thumbnail: 'https://images.unsplash.com/photo-1532375810709-75b1da00537c?w=480&h=300&fit=crop',
+            watchLinks: [
+              'https://www.effectivegatecpm.com/g2cr05tw?key=d8be84b0e258e182bc2821ea7849147b',
+              'https://www.effectivegatecpm.com/g2cr05tw?key=d8be84b0e258e182bc2821ea7849147b'
+            ],
+            description: 'A South Korean heiress crash-lands in North Korea and falls for an officer.'
+          },
+          {
+            slug: 'all-of-us-are-dead',
+            title: 'All of Us Are Dead',
+            emotionTag: '🔥 Classroom turned violent',
+            emotionClass: 'fire',
+            category: 'fighting',
+            rating: '8.8',
+            isTrending: false,
+            thumbnail: 'https://images.unsplash.com/photo-1616530940355-351fabd9524b?w=480&h=300&fit=crop',
+            watchLinks: [
+              'https://www.effectivegatecpm.com/g2cr05tw?key=d8be84b0e258e182bc2821ea7849147b',
+              'all-of-us-are-dead.html'
+            ],
+            description: 'A zombie virus spreads through a high school, trapping students inside.'
+          },
+          {
+            slug: 'the-world-of-the-married',
+            title: 'The World of the Married',
+            emotionTag: '💔 Toxic but addictive',
+            emotionClass: 'heart',
+            category: 'romance',
+            rating: '9.1',
+            isTrending: false,
+            thumbnail: 'https://images.unsplash.com/photo-1516589091380-5d8e87df6999?w=480&h=300&fit=crop',
+            watchLinks: [
+              'https://www.effectivegatecpm.com/g2cr05tw?key=d8be84b0e258e182bc2821ea7849147b',
+              'world-of-married.html'
+            ],
+            description: 'A woman discovers her husband\'s affair and seeks revenge.'
+          },
+          {
+            slug: 'business-proposal',
+            title: 'Business Proposal',
+            emotionTag: '😂 Pure chaos',
+            emotionClass: 'chaos',
+            category: 'comedy',
+            rating: '8.7',
+            isTrending: false,
+            thumbnail: 'https://images.unsplash.com/photo-1580489944761-15a19d654956?w=480&h=300&fit=crop',
+            watchLinks: [
+              'https://www.effectivegatecpm.com/g2cr05tw?key=d8be84b0e258e182bc2821ea7849147b',
+              'business-proposal.html'
+            ],
+            description: 'An employee goes on a blind date for her friend and meets her CEO.'
+          },
+          {
+            slug: 'vincenzo',
+            title: 'Vincenzo',
+            emotionTag: '🧠 Every move planned',
+            emotionClass: 'mind',
+            category: 'mindgames',
+            rating: '9.0',
+            isTrending: false,
+            thumbnail: 'https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=480&h=300&fit=crop',
+            watchLinks: [
+              'https://www.effectivegatecpm.com/g2cr05tw?key=d8be84b0e258e182bc2821ea7849147b',
+              'vincenzo.html'
+            ],
+            description: 'An Italian mafia lawyer returns to Korea to retrieve gold hidden in a building.'
+          },
+          {
+            slug: 'nevertheless',
+            title: 'Nevertheless',
+            emotionTag: '💔 Red flag but irresistible',
+            emotionClass: 'heart',
+            category: 'romance',
+            rating: '7.9',
+            isTrending: false,
+            thumbnail: 'https://images.unsplash.com/photo-1518199266791-5375a83190b7?w=480&h=300&fit=crop',
+            watchLinks: [
+              'https://www.effectivegatecpm.com/g2cr05tw?key=d8be84b0e258e182bc2821ea7849147b',
+              'nevertheless.html'
+            ],
+            description: 'An art student falls for a charming but emotionally unavailable classmate.'
+          },
+          {
+            slug: 'itaewon-class',
+            title: 'Itaewon Class',
+            emotionTag: '😈 They underestimated him',
+            emotionClass: 'revenge',
+            category: 'revenge',
+            rating: '8.9',
+            isTrending: false,
+            thumbnail: 'https://images.unsplash.com/photo-1517841905240-472988babdf9?w=480&h=300&fit=crop',
+            watchLinks: [
+              'https://www.effectivegatecpm.com/g2cr05tw?key=d8be84b0e258e182bc2821ea7849147b',
+              'itaewon-class.html'
+            ],
+            description: 'An ex-convict opens a bar to take down the food empire that ruined his family.'
+          },
+          {
+            slug: 'true-beauty',
+            title: 'True Beauty',
+            emotionTag: '😂 No brain just fun',
+            emotionClass: 'chaos',
+            category: 'comedy',
+            rating: '8.2',
+            isTrending: false,
+            thumbnail: 'https://images.unsplash.com/photo-1524504388940-b1c1722653e1?w=480&h=300&fit=crop',
+            watchLinks: [
+              'https://www.effectivegatecpm.com/g2cr05tw?key=d8be84b0e258e182bc2821ea7849147b',
+              'true-beauty.html'
+            ],
+            description: 'A girl transforms herself with makeup and becomes the school goddess.'
+          },
+          {
+            slug: 'penthouse',
+            title: 'Penthouse',
+            emotionTag: '🧠 Mind games & betrayal',
+            emotionClass: 'mind',
+            category: 'mindgames',
+            rating: '8.6',
+            isTrending: false,
+            thumbnail: 'https://images.unsplash.com/photo-1544005313-94ddf0286df2?w=480&h=300&fit=crop',
+            watchLinks: [
+              'https://www.effectivegatecpm.com/g2cr05tw?key=d8be84b0e258e182bc2821ea7849147b',
+              'penthouse.html'
+            ],
+            description: 'Rich families in a luxury penthouse fight for status and power.'
+          }
+        ],
+
+        getTrendingDrama() {
+          const trendingDramas = this.dramas.filter(d => d.isTrending === true);
+          if (!trendingDramas.length) return null;
+          return trendingDramas.reduce((best, d) =>
+            parseFloat(d.rating) > parseFloat(best.rating) ? d : best
+          , trendingDramas[0]);
+        },
+
+        sortByRank() {
+          const trendingSlug = this.getTrendingDrama()?.slug;
+          this.dramas.sort((a, b) => {
+            const aIsTrend = a.slug === trendingSlug ? 1 : 0;
+            const bIsTrend = b.slug === trendingSlug ? 1 : 0;
+            if (bIsTrend !== aIsTrend) return bIsTrend - aIsTrend;
+            const ratingDiff = parseFloat(b.rating) - parseFloat(a.rating);
+            if (ratingDiff !== 0) return ratingDiff;
+            return a.title.localeCompare(b.title);
+          });
+        },
+
+        getAll() { return this.dramas; },
+
+        getBySlug(slug) { return this.dramas.find(d => d.slug === slug) || null; },
+
+        getFeatured() {
+          this.sortByRank();
+          return this.dramas[0];
+        },
+
+        search(query) {
+          const q = (query || '').toLowerCase().trim();
+          return this.dramas.filter(drama => {
+            return !q ||
+              drama.title.toLowerCase().includes(q) ||
+              drama.emotionTag.toLowerCase().includes(q) ||
+              (drama.description && drama.description.toLowerCase().includes(q));
+          });
+        }
+      };
+
+      const ThemeManager = {
+        init() {
+          this.bindEvents();
+          this.updateActiveButton();
+        },
+
+        bindEvents() {
+          Utils.$$('.mode-btn').forEach(btn => {
+            btn.addEventListener('click', () => this.setTheme(btn.dataset.theme));
+          });
+        },
+
+        setTheme(theme) {
+          document.documentElement.setAttribute('data-theme', theme);
+          document.documentElement.style.colorScheme = theme === 'dark' || theme === 'red' ? 'dark' : 'light';
+          Utils.setStorage('edgetakes-theme', theme);
+          this.updateActiveButton();
+        },
+
+        updateActiveButton() {
+          const current = document.documentElement.getAttribute('data-theme');
+          Utils.$$('.mode-btn').forEach(btn => {
+            btn.classList.toggle('active', btn.dataset.theme === current);
+          });
+        }
+      };
+
+      const AdManager = {
+        observer: null,
+        loadedAds: new Set(),
+        smartlinkFiredThisSession: false,
+        maxImpressionsPerSession: 6,
+        impressionCount: 0,
+        scrollDepthReached: false,
+        scrollDepthThreshold: 0.3,
+
+        init() {
+          this.smartlinkFiredThisSession = Utils.getStorage('smartlinkFired', null, sessionStorage) === '1';
+          this.impressionCount = parseInt(Utils.getStorage('adImpressions', '0', sessionStorage)) || 0;
+          this.initScrollDepthGate();
+          this.loadInitialAds();
+          this.initStickyAd();
+        },
+
+        initScrollDepthGate() {
+          const checkDepth = Utils.throttle(() => {
+            if (this.scrollDepthReached) return;
+            const scrollable = document.documentElement.scrollHeight - window.innerHeight;
+            if (scrollable <= 0) { this.scrollDepthReached = true; this.setupLazyLoading(); return; }
+            const pct = window.scrollY / scrollable;
+            if (pct >= this.scrollDepthThreshold) {
+              this.scrollDepthReached = true;
+              this.setupLazyLoading();
+            }
+          }, 150);
+          window.addEventListener('scroll', checkDepth, { passive: true });
+        },
+
+        setupLazyLoading() {
+          if (this.observer) return;
+          if (!('IntersectionObserver' in window)) return;
+
+          this.observer = new IntersectionObserver(
+            (entries) => {
+              entries.forEach(entry => {
+                if (entry.isIntersecting) {
+                  this.loadAd(entry.target);
+                  this.observer.unobserve(entry.target);
+                }
+              });
+            },
+            { rootMargin: '200px 0px', threshold: 0.01 }
+          );
+
+          Utils.$$('[data-ad-lazy="true"]').forEach(ad => {
+            if (!this.loadedAds.has(ad.id)) {
+              this.observer.observe(ad);
+            }
+          });
+        },
+
+        loadInitialAds() {
+          Utils.$$('.ad-container:not([data-ad-lazy="true"])').forEach(ad => {
+            this.loadAd(ad);
+          });
+        },
+
+        loadAd(container) {
+          if (!container || this.loadedAds.has(container.id)) return;
+          if (this.impressionCount >= this.maxImpressionsPerSession) return;
+          this.loadedAds.add(container.id);
+          this.impressionCount++;
+          Utils.setStorage('adImpressions', String(this.impressionCount), sessionStorage);
+          setTimeout(() => {
+            container.classList.add('ad-loaded');
+          }, 500);
+        },
+
+        initStickyAd() {
+          const stickyAd = Utils.$('#ad-sticky');
+          const closeBtn = Utils.$('.ad-close', stickyAd);
+
+          if (!stickyAd) return;
+
+          const SCROLL_THRESHOLD = 600;
+          const SHOW_DELAY = 5000;
+          let scrollThresholdMet = false;
+          let stickyShown = false;
+          let stickyClosed = Utils.getStorage('stickyAdClosed', null, sessionStorage) === '1';
+
+          if (stickyClosed) return;
+
+          const checkScroll = Utils.throttle(() => {
+            if (stickyClosed || stickyShown) return;
+
+            if (window.scrollY > SCROLL_THRESHOLD && !scrollThresholdMet) {
+              scrollThresholdMet = true;
+
+              setTimeout(() => {
+                if (!stickyClosed && !stickyShown) {
+                  stickyShown = true;
+                  stickyAd.classList.add('visible');
+                  document.body.classList.add('has-sticky-ad');
+                  this.loadAd(stickyAd);
+                }
+              }, SHOW_DELAY);
+            }
+          }, 150);
+
+          window.addEventListener('scroll', checkScroll, { passive: true });
+
+          if (closeBtn) {
+            closeBtn.addEventListener('click', (e) => {
+              e.stopPropagation();
+              stickyClosed = true;
+              stickyAd.classList.remove('visible');
+              document.body.classList.remove('has-sticky-ad');
+              Utils.setStorage('stickyAdClosed', '1', sessionStorage);
+            });
+          }
+        },
+
+        triggerSmartlink() {
+          if (this.smartlinkFiredThisSession) return false;
+          this.smartlinkFiredThisSession = true;
+          Utils.setStorage('smartlinkFired', '1', sessionStorage);
+          return true;
+        },
+
+        observeNewAds() {
+          if (!this.observer) return;
+          Utils$$('[data-ad-lazy="true"]:not(.ad-loaded)').forEach(ad => {
+            if (!this.loadedAds.has(ad.id)) {
+              this.observer.observe(ad);
+            }
+          });
+        }
+      };
+
+      const UIController = {
+        searchQuery: '',
+        hasAnimatedOnce: false,
+        postsPerLoad: 10,
+        currentPostCount: 0,
+
+        init() {
+          this.cacheElements();
+          this.initFeaturedSection();
+          this.initDramaGrid();
+          this.initSearch();
+          this.initHeaderScroll();
+          this.initFABs();
+          this.initPolicyPages();
+          this.setupImageErrorHandling();
+        },
+
+        cacheElements() {
+          this.elements = {
+            featuredCard: Utils.$('#featured-card'),
+            featuredCta: Utils.$('#featured-cta'),
+            featuredImage: Utils.$('#featured-image'),
+            featuredTitle: Utils.$('#featured-title'),
+            featuredCategory: Utils.$('#featured-category'),
+            featuredVibe: Utils.$('#featured-vibe'),
+            dramasGrid: Utils.$('#dramas-grid'),
+            dramaCount: Utils.$('#drama-count'),
+            searchInput: Utils.$('#search-input'),
+            header: Utils.$('.header'),
+            fabSearch: Utils.$('#fab-search'),
+            showMoreBtn: Utils.$('#show-more-posts')
+          };
+        },
+
+        setupImageErrorHandling() {
+          document.addEventListener('error', (e) => {
+            if (e.target.tagName === 'IMG') {
+              const fallback = 'data:image/svg+xml,' + encodeURIComponent(
+                '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 300">' +
+                '<rect fill="#f1f3f5" width="480" height="300"/>' +
+                '<text x="240" y="150" text-anchor="middle" fill="#868e96" font-size="14">Image unavailable</text>' +
+                '</svg>'
+              );
+              if (e.target.src !== fallback) {
+                e.target.src = fallback;
+              }
+            }
+          }, true);
+        },
+
+        initFeaturedSection() {
+          const featured = ContentData.getFeatured();
+          if (!featured || !this.elements.featuredCard) return;
+
+          const { featuredImage, featuredTitle, featuredCategory, featuredVibe, featuredCard, featuredCta } = this.elements;
+
+          if (featuredImage) {
+            featuredImage.src = featured.thumbnail;
+            featuredImage.alt = featured.title;
+          }
+          if (featuredTitle) {
+            featuredTitle.textContent = ContentData.config.featuredHeadline || featured.title;
+          }
+          if (featuredCategory) {
+            featuredCategory.textContent = featured.category.charAt(0).toUpperCase() + featured.category.slice(1);
+          }
+          if (featuredVibe) {
+            featuredVibe.textContent = featured.emotionClass.charAt(0).toUpperCase() + featured.emotionClass.slice(1);
+          }
+
+          const ratingSignal = Utils.$('#featured-rating-signal');
+          if (ratingSignal) ratingSignal.textContent = featured.rating;
+
+          // Featured card click - passes button element
+          featuredCard.addEventListener('click', (e) => {
+            if (e.target === featuredCta || (featuredCta && featuredCta.contains(e.target))) {
+              return;
+            }
+            LinkManager.handleFeaturedClick(featured, featuredCta);
+          });
+
+          if (featuredCta) {
+            featuredCta.addEventListener('click', (e) => {
+              e.preventDefault();
+              e.stopPropagation();
+              LinkManager.handleFeaturedClick(featured, featuredCta);
+            });
+          }
+        },
+
+        initDramaGrid() {
+          ContentData.sortByRank();
+          this.renderDramas();
+        },
+
+        renderDramas() {
+          this._renderDramasInternal(true);
+        },
+
+        renderDramasWithoutAnimation() {
+          this._renderDramasInternal(false);
+        },
+
+        _renderDramasInternal(animate) {
+          const { dramasGrid, dramaCount, showMoreBtn } = this.elements;
+          if (!dramasGrid) return;
+
+          ContentData.sortByRank();
+          const filtered = ContentData.search(this.searchQuery);
+
+          // Update count
+          if (dramaCount) {
+            const shown = Math.min(this.currentPostCount + this.postsPerLoad, filtered.length);
+            dramaCount.textContent = `${filtered.length} drama${filtered.length !== 1 ? 's' : ''}`;
+          }
+
+          // Clear grid and reset if searching
+          if (this.searchQuery) {
+            dramasGrid.innerHTML = '';
+            this.currentPostCount = 0;
+          }
+
+          // Show initial posts or all if searching
+          const isInitial = this.currentPostCount === 0;
+          const postsToShow = this.searchQuery ? filtered.length : Math.min(this.currentPostCount + this.postsPerLoad, filtered.length);
+
+          if (isInitial) {
+            dramasGrid.innerHTML = '';
+          }
+
+          if (filtered.length === 0) {
+            dramasGrid.innerHTML = `
+              <div class="no-results">
+                <div class="no-results-icon">🎭</div>
+                <p class="no-results-text">No dramas found. Try another search!</p>
+              </div>
+            `;
+            if (showMoreBtn) showMoreBtn.classList.add('hidden');
+            return;
+          }
+
+          const fixedAdSlots = [
+            { afterIndex: 2, id: 'grid-ad-1' },
+            { afterIndex: 5, id: 'grid-ad-2' }
+          ];
+
+          const startIndex = this.currentPostCount;
+          const shouldAnimate = animate && !this.hasAnimatedOnce && isInitial;
+
+          // Render new posts
+          for (let i = startIndex; i < postsToShow; i++) {
+            const drama = filtered[i];
+            const trendingDramaSlug = ContentData.getTrendingDrama()?.slug;
+            const isTopTrending = i === 0 && drama.slug === trendingDramaSlug;
+            const card = this.createDramaCard(drama, i - startIndex, isTopTrending, shouldAnimate);
+            dramasGrid.appendChild(card);
+
+            // Insert ad slots
+            const adIndex = fixedAdSlots.findIndex(slot => slot.afterIndex === i);
+            if (adIndex !== -1 && startIndex === 0) {
+              const adSlot = document.createElement('div');
+              adSlot.className = 'ad-slot-grid';
+              adSlot.innerHTML = `<div class="ad-slot-fixed" id="${fixedAdSlots[adIndex].id}"></div>`;
+              dramasGrid.appendChild(adSlot);
+            }
+          }
+
+          this.currentPostCount = postsToShow;
+
+          if (shouldAnimate) {
+            this.hasAnimatedOnce = true;
+          }
+
+          // Show/hide "Show More" button
+          if (showMoreBtn) {
+            if (this.currentPostCount >= filtered.length) {
+              showMoreBtn.classList.add('hidden');
+            } else {
+              showMoreBtn.classList.remove('hidden');
+            }
+          }
+
+          AdManager.observeNewAds();
+        },
+
+        createDramaCard(drama, index, isTopTrending = false, animate = false) {
+          const card = document.createElement('article');
+          card.className = 'drama-card' + (animate ? ' animate-in' : '');
+          if (animate) {
+            card.style.animationDelay = `${0.04 * index}s`;
+          }
+
+          const trendingBadge = isTopTrending ? '<span class="trending-badge">🔥 #1 Trending</span>' : '';
+
+          card.innerHTML = `
+            ${trendingBadge}
+            <div class="drama-card-link" data-link="${Utils.escapeHtml(drama.watchLinks ? drama.watchLinks[0] : '#')}">
+              <div class="drama-thumbnail">
+                <img
+                  src="${Utils.escapeHtml(drama.thumbnail)}"
+                  alt="${Utils.escapeHtml(drama.title)}"
+                  loading="lazy"
+                  width="480"
+                  height="300"
+                  decoding="async"
+                >
+                <span class="emotion-tag ${Utils.escapeHtml(drama.emotionClass)}">${Utils.escapeHtml(drama.emotionTag)}</span>
+                <span class="drama-rating">★ ${Utils.escapeHtml(drama.rating)}</span>
+              </div>
+              <div class="drama-content">
+                <h3 class="drama-title">${Utils.escapeHtml(drama.title)}</h3>
+                <button class="drama-cta" type="button">▶ Watch Now</button>
+              </div>
+            </div>
+          `;
+
+          // Get the CTA button reference
+          const ctaBtn = Utils.$('.drama-cta', card);
+
+          // Card click handler - passes button element
+          card.addEventListener('click', (e) => {
+            if (e.target === ctaBtn || (ctaBtn && ctaBtn.contains(e.target))) {
+              e.preventDefault();
+              e.stopPropagation();
+              LinkManager.handleClick(drama, ctaBtn);
+              return;
+            }
+
+            // Clicking anywhere on card also triggers with button
+            LinkManager.handleClick(drama, ctaBtn);
+          });
+
+          return card;
+        },
+
+        initSearch() {
+          const { searchInput } = this.elements;
+          if (!searchInput) return;
+
+          const handleSearch = Utils.debounce((e) => {
+            this.searchQuery = e.target.value.trim();
+            this.currentPostCount = 0;
+            this.renderDramasWithoutAnimation();
+          }, 250);
+
+          searchInput.addEventListener('input', handleSearch);
+        },
+
+        initShowMoreButton() {
+          const { showMoreBtn } = this.elements;
+          if (!showMoreBtn) return;
+
+          showMoreBtn.addEventListener('click', () => {
+            this.renderDramasWithoutAnimation();
+          });
+        },
+
+        initHeaderScroll() {
+          const { header } = this.elements;
+          if (!header) return;
+
+          const handleScroll = Utils.throttle(() => {
+            header.classList.toggle('scrolled', window.scrollY > 10);
+          }, 100);
+
+          window.addEventListener('scroll', handleScroll, { passive: true });
+        },
+
+        initFABs() {
+          const { fabSearch, searchInput } = this.elements;
+          if (fabSearch && searchInput) {
+            fabSearch.addEventListener('click', () => {
+              searchInput.scrollIntoView({ behavior: 'smooth', block: 'center' });
+              setTimeout(() => searchInput.focus(), 400);
+            });
+          }
+        },
+
+        initPolicyPages() {
+          const policyMetadata = {
+            privacy: { title: 'Privacy Policy — edgetakes' },
+            terms: { title: 'Terms of Service — edgetakes' },
+            disclaimer: { title: 'Disclaimer — edgetakes' },
+            dmca: { title: 'DMCA Policy — edgetakes' }
+          };
+
+          const getUrlParam = (param) => new URLSearchParams(window.location.search).get(param);
+
+          const showPolicy = (policyType) => {
+            Utils.$$('.policy-page').forEach(page => page.classList.remove('active'));
+            document.body.classList.remove('policy-active');
+
+            if (policyType && policyMetadata[policyType]) {
+              const policyPage = Utils.$('#policy-' + policyType);
+              if (policyPage) {
+                policyPage.classList.add('active');
+                document.body.classList.add('policy-active');
+                document.title = policyMetadata[policyType].title;
+                window.scrollTo(0, 0);
+              }
+            } else {
+              document.title = "edgetakes | Viral K-Drama Everyone's Obsessed With";
+            }
+          };
+
+          const handleUrlChange = () => showPolicy(getUrlParam('policy'));
+
+          handleUrlChange();
+          window.addEventListener('popstate', handleUrlChange);
+        }
+      };
+
+      document.addEventListener('DOMContentLoaded', () => {
+        ThemeManager.init();
+        AdManager.init();
+        UIController.init();
+        UIController.initShowMoreButton();
+      });
+
+    })();
+  </script>
+
+  <script type="module">
+    const CommentsModule = {
+      MAX_COMMENTS: 500,
+      VISIBLE_COUNT: 5,
+
+      state: {
+        showAll: false,
+        db: null,
+        isInitialized: false,
+        commentCount: 0
+      },
+
+      escapeHtml(text) {
+        if (!text) return '';
+        const map = { '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' };
+        return String(text).replace(/[&<>"']/g, m => map[m]);
+      },
+
+      formatTime(timestamp) {
+        const ts = typeof timestamp === 'number' ? timestamp : Date.parse(timestamp);
+        const diff = Math.floor((Date.now() - ts) / 1000);
+        if (diff < 60) return 'Just now';
+        if (diff < 3600) return Math.floor(diff / 60) + 'm ago';
+        if (diff < 86400) return Math.floor(diff / 3600) + 'h ago';
+        if (diff < 604800) return Math.floor(diff / 86400) + 'd ago';
+        return new Date(ts).toLocaleDateString();
+      },
+
+      _lastPostTime: 0,
+      COOLDOWN_MS: 15000,
+      PROFANITY_LIST: ['fuck','shit','damn','bitch','ass','dick','bastard','crap','porn','sex','nude','kill','die'],
+
+      containsProfanity(text) {
+        const lower = (text || '').toLowerCase();
+        return this.PROFANITY_LIST.some(word => {
+          const regex = new RegExp('\\b' + word + '\\b', 'i');
+          return regex.test(lower);
+        });
+      },
+
+      validateInput(name, comment) {
+        name = (name || '').trim();
+        comment = (comment || '').trim();
+
+        if (name.length < 2 || name.length > 50) {
+          return { valid: false, error: 'Name must be 2-50 characters' };
+        }
+        if (comment.length < 3 || comment.length > 500) {
+          return { valid: false, error: 'Comment must be 3-500 characters' };
+        }
+        if (this.containsProfanity(name) || this.containsProfanity(comment)) {
+          return { valid: false, error: 'Please keep comments respectful.' };
+        }
+        const now = Date.now();
+        if (now - this._lastPostTime < this.COOLDOWN_MS) {
+          const wait = Math.ceil((this.COOLDOWN_MS - (now - this._lastPostTime)) / 1000);
+          return { valid: false, error: `Please wait ${wait}s before posting again.` };
+        }
+        return { valid: true };
+      },
+
+      async init() {
+        try {
+          const { getApps, initializeApp } = await import('https://www.gstatic.com/firebasejs/12.6.0/firebase-app.js');
+          const { getFirestore } = await import('https://www.gstatic.com/firebasejs/12.6.0/firebase-firestore.js');
+
+          const firebaseConfig = {
+            apiKey: "AIzaSyBUJLKrhR7gn4j8ET66QeGY3iaHBnvrOOs",
+            authDomain: "mblog-comments.firebaseapp.com",
+            projectId: "mblog-comments",
+            storageBucket: "mblog-comments.firebasestorage.app",
+            messagingSenderId: "252839486588",
+            appId: "1:252839486588:web:926991d46b9629b4c2d5f9"
+          };
+
+          const app = getApps().length ? getApps()[0] : initializeApp(firebaseConfig);
+          this.state.db = getFirestore(app);
+          this.state.isInitialized = true;
+
+          this.bindEvents();
+          await this.renderComments();
+        } catch (error) {
+          this.showError('Comments temporarily unavailable');
+        }
+      },
+
+      async getCommentCount() {
+        if (!this.state.db) return 0;
+        try {
+          const { doc, getDoc } = await import('https://www.gstatic.com/firebasejs/12.6.0/firebase-firestore.js');
+          const metaDoc = await getDoc(doc(this.state.db, 'meta', 'comments'));
+          return metaDoc.exists() ? (metaDoc.data().count || 0) : 0;
+        } catch (e) {
+          return 0;
+        }
+      },
+
+      async fetchComments() {
+        if (!this.state.isInitialized || !this.state.db) return [];
+
+        try {
+          const { collection, getDocs, query, orderBy } = await import('https://www.gstatic.com/firebasejs/12.6.0/firebase-firestore.js');
+
+          const q = query(
+            collection(this.state.db, 'comments'),
+            orderBy('createdAt', 'desc')
+          );
+
+          const snap = await getDocs(q);
+          this.state.commentCount = snap.size;
+          return snap.docs.map(d => ({ id: d.id, ...d.data() }));
+        } catch (error) {
+          return [];
+        }
+      },
+
+      async postComment(name, comment) {
+        if (!this.state.isInitialized || !this.state.db) {
+          throw new Error('Comments system unavailable');
+        }
+
+        const count = await this.getCommentCount();
+        if (count >= this.MAX_COMMENTS) {
+          throw new Error('Comments are full. Maximum 500 reached.');
+        }
+
+        const { collection, addDoc, doc, updateDoc, increment, runTransaction } = await import('https://www.gstatic.com/firebasejs/12.6.0/firebase-firestore.js');
+
+        await runTransaction(this.state.db, async (transaction) => {
+          const metaRef = doc(this.state.db, 'meta', 'comments');
+          const metaSnap = await transaction.get(metaRef);
+
+          const currentCount = metaSnap.exists() ? (metaSnap.data().count || 0) : 0;
+          if (currentCount >= this.MAX_COMMENTS) {
+            throw new Error('Comments are full. Maximum 500 reached.');
+          }
+
+          const commentRef = doc(collection(this.state.db, 'comments'));
+          transaction.set(commentRef, {
+            name: name.trim(),
+            comment: comment.trim(),
+            createdAt: Date.now()
+          });
+
+          if (metaSnap.exists()) {
+            transaction.update(metaRef, { count: increment(1) });
+          } else {
+            transaction.set(metaRef, { count: 1 });
+          }
+        });
+      },
+
+      async renderComments() {
+        const list = document.getElementById('comment-list');
+        const btn = document.getElementById('view-more-btn');
+        const form = document.getElementById('comment-form');
+
+        if (!list) return;
+
+        try {
+          const comments = await this.fetchComments();
+
+          if (form && this.state.commentCount >= this.MAX_COMMENTS) {
+            form.innerHTML = '<p class="comments-full">Comments are full (500/500). Thank you for participating!</p>';
+          }
+
+          if (!comments.length) {
+            list.innerHTML = '<p class="no-comments">No comments yet. Be the first! 💬</p>';
+            if (btn) btn.classList.add('hidden');
+            return;
+          }
+
+          const toShow = this.state.showAll ? comments : comments.slice(0, this.VISIBLE_COUNT);
+
+          list.innerHTML = toShow.map((c) => `
+            <div class="comment-item">
+              <div class="comment-avatar">${this.escapeHtml(c.name?.[0]?.toUpperCase() || '?')}</div>
+              <div class="comment-body">
+                <div class="comment-header">
+                  <span class="comment-name">${this.escapeHtml(c.name || 'Anonymous')}</span>
+                  <span class="comment-time">${this.formatTime(c.createdAt)}</span>
+                </div>
+                <p class="comment-text">${this.escapeHtml(c.comment || c.text || '')}</p>
+              </div>
+            </div>
+          `).join('');
+
+          if (btn) {
+            if (comments.length > this.VISIBLE_COUNT) {
+              btn.classList.remove('hidden');
+              btn.textContent = this.state.showAll
+                ? 'Show less'
+                : `View ${comments.length - this.VISIBLE_COUNT} more comments`;
+            } else {
+              btn.classList.add('hidden');
+            }
+          }
+        } catch (error) {
+          list.innerHTML = '<p class="no-comments">Unable to load comments</p>';
+        }
+      },
+
+      showError(message) {
+        const errorEl = document.getElementById('comment-error');
+        if (errorEl) {
+          errorEl.textContent = message;
+          errorEl.classList.remove('hidden');
+          setTimeout(() => errorEl.classList.add('hidden'), 5000);
+        }
+      },
+
+      clearError() {
+        const errorEl = document.getElementById('comment-error');
+        if (errorEl) errorEl.classList.add('hidden');
+      },
+
+      bindEvents() {
+        const viewMoreBtn = document.getElementById('view-more-btn');
+        const form = document.getElementById('comment-form');
+        const submitBtn = document.getElementById('submit-btn');
+
+        if (viewMoreBtn) {
+          viewMoreBtn.addEventListener('click', () => {
+            this.state.showAll = !this.state.showAll;
+            this.renderComments();
+          });
+        }
+
+        if (form) {
+          form.addEventListener('submit', async (e) => {
+            e.preventDefault();
+            this.clearError();
+
+            const nameInput = document.getElementById('comment-name');
+            const textInput = document.getElementById('comment-text');
+
+            if (!nameInput || !textInput) return;
+
+            const name = nameInput.value.trim();
+            const comment = textInput.value.trim();
+
+            const validation = this.validateInput(name, comment);
+            if (!validation.valid) {
+              this.showError(validation.error);
+              return;
+            }
+
+            if (submitBtn) {
+              submitBtn.disabled = true;
+              submitBtn.textContent = 'Posting...';
+            }
+
+            try {
+              await this.postComment(name, comment);
+              this._lastPostTime = Date.now();
+              nameInput.value = '';
+              textInput.value = '';
+              this.state.showAll = false;
+              await this.renderComments();
+            } catch (error) {
+              this.showError(error.message || 'Failed to post comment. Please try again.');
+            } finally {
+              if (submitBtn) {
+                submitBtn.disabled = false;
+                submitBtn.textContent = 'Publish';
+              }
+            }
+          });
+        }
+      }
+    };
+
+    CommentsModule.init();
+  </script>
+</body>
+</html>
