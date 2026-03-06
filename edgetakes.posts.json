@@ -1,0 +1,189 @@
+{
+  "config": {
+    "featuredHeadline": "She waited 18 years. Now it's their turn to suffer.",
+    "postsPerLoad": 20,
+    "adFrequency": 2
+  },
+  "posts": [
+    {
+      "slug": "the-glory",
+      "title": "The Glory",
+      "emotionTag": "😈 Revenge served cold",
+      "emotionClass": "revenge",
+      "category": "revenge",
+      "rating": "9.4",
+      "isTrending": false,
+      "thumbnail": "https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?w=480&h=300&fit=crop",
+      "watchLinks": [
+        "https://www.effectivegatecpm.com/g2cr05tw?key=d8be84b0e258e182bc2821ea7849147b",
+        "https://www.effectivegatecpm.com/g2cr05tw?key=d8be84b0e258e182bc2821ea7849147b"
+      ],
+      "description": "A woman dedicates her life to getting revenge on her childhood bullies."
+    },
+    {
+      "slug": "weak-hero-class-1",
+      "title": "Weak Hero Class 1",
+      "emotionTag": "🔥 School fights went too far",
+      "emotionClass": "fire",
+      "category": "fighting",
+      "rating": "9.2",
+      "isTrending": true,
+      "thumbnail": "https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?w=480&h=300&fit=crop",
+      "watchLinks": [
+        "https://www.effectivegatecpm.com/g2cr05tw?key=d8be84b0e258e182bc2821ea7849147b",
+        "https://www.effectivegatecpm.com/g2cr05tw?key=d8be84b0e258e182bc2821ea7849147b"
+      ],
+      "description": "A brilliant student fights back against school bullies with strategic thinking."
+    },
+    {
+      "slug": "goblin",
+      "title": "Goblin",
+      "emotionTag": "😭 I wasn't ready for this",
+      "emotionClass": "sad",
+      "category": "emotional",
+      "rating": "9.5",
+      "isTrending": false,
+      "thumbnail": "https://images.unsplash.com/photo-1531746020798-e6953c6e8e04?w=480&h=300&fit=crop",
+      "watchLinks": [
+        "https://www.effectivegatecpm.com/g2cr05tw?key=d8be84b0e258e182bc2821ea7849147b",
+        "goblin.html"
+      ],
+      "description": "An immortal goblin searches for his bride who can end his immortal life."
+    },
+    {
+      "slug": "crash-landing-on-you",
+      "title": "Crash Landing on You",
+      "emotionTag": "😭 Love that hurts",
+      "emotionClass": "sad",
+      "category": "emotional",
+      "rating": "9.3",
+      "isTrending": false,
+      "thumbnail": "https://images.unsplash.com/photo-1532375810709-75b1da00537c?w=480&h=300&fit=crop",
+      "watchLinks": [
+        "https://www.effectivegatecpm.com/g2cr05tw?key=d8be84b0e258e182bc2821ea7849147b",
+        "https://www.effectivegatecpm.com/g2cr05tw?key=d8be84b0e258e182bc2821ea7849147b"
+      ],
+      "description": "A South Korean heiress crash-lands in North Korea and falls for an officer."
+    },
+    {
+      "slug": "all-of-us-are-dead",
+      "title": "All of Us Are Dead",
+      "emotionTag": "🔥 Classroom turned violent",
+      "emotionClass": "fire",
+      "category": "fighting",
+      "rating": "8.8",
+      "isTrending": false,
+      "thumbnail": "https://images.unsplash.com/photo-1616530940355-351fabd9524b?w=480&h=300&fit=crop",
+      "watchLinks": [
+        "https://www.effectivegatecpm.com/g2cr05tw?key=d8be84b0e258e182bc2821ea7849147b",
+        "all-of-us-are-dead.html"
+      ],
+      "description": "A zombie virus spreads through a high school, trapping students inside."
+    },
+    {
+      "slug": "the-world-of-the-married",
+      "title": "The World of the Married",
+      "emotionTag": "💔 Toxic but addictive",
+      "emotionClass": "heart",
+      "category": "romance",
+      "rating": "9.1",
+      "isTrending": false,
+      "thumbnail": "https://images.unsplash.com/photo-1516589091380-5d8e87df6999?w=480&h=300&fit=crop",
+      "watchLinks": [
+        "https://www.effectivegatecpm.com/g2cr05tw?key=d8be84b0e258e182bc2821ea7849147b",
+        "world-of-married.html"
+      ],
+      "description": "A woman discovers her husband's affair and seeks revenge."
+    },
+    {
+      "slug": "business-proposal",
+      "title": "Business Proposal",
+      "emotionTag": "😂 Pure chaos",
+      "emotionClass": "chaos",
+      "category": "comedy",
+      "rating": "8.7",
+      "isTrending": false,
+      "thumbnail": "https://images.unsplash.com/photo-1580489944761-15a19d654956?w=480&h=300&fit=crop",
+      "watchLinks": [
+        "https://www.effectivegatecpm.com/g2cr05tw?key=d8be84b0e258e182bc2821ea7849147b",
+        "business-proposal.html"
+      ],
+      "description": "An employee goes on a blind date for her friend and meets her CEO."
+    },
+    {
+      "slug": "vincenzo",
+      "title": "Vincenzo",
+      "emotionTag": "🧠 Every move planned",
+      "emotionClass": "mind",
+      "category": "mindgames",
+      "rating": "9.0",
+      "isTrending": false,
+      "thumbnail": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=480&h=300&fit=crop",
+      "watchLinks": [
+        "https://www.effectivegatecpm.com/g2cr05tw?key=d8be84b0e258e182bc2821ea7849147b",
+        "vincenzo.html"
+      ],
+      "description": "An Italian mafia lawyer returns to Korea to retrieve gold hidden in a building."
+    },
+    {
+      "slug": "nevertheless",
+      "title": "Nevertheless",
+      "emotionTag": "💔 Red flag but irresistible",
+      "emotionClass": "heart",
+      "category": "romance",
+      "rating": "7.9",
+      "isTrending": false,
+      "thumbnail": "https://images.unsplash.com/photo-1518199266791-5375a83190b7?w=480&h=300&fit=crop",
+      "watchLinks": [
+        "https://www.effectivegatecpm.com/g2cr05tw?key=d8be84b0e258e182bc2821ea7849147b",
+        "nevertheless.html"
+      ],
+      "description": "An art student falls for a charming but emotionally unavailable classmate."
+    },
+    {
+      "slug": "itaewon-class",
+      "title": "Itaewon Class",
+      "emotionTag": "😈 They underestimated him",
+      "emotionClass": "revenge",
+      "category": "revenge",
+      "rating": "8.9",
+      "isTrending": false,
+      "thumbnail": "https://images.unsplash.com/photo-1517841905240-472988babdf9?w=480&h=300&fit=crop",
+      "watchLinks": [
+        "https://www.effectivegatecpm.com/g2cr05tw?key=d8be84b0e258e182bc2821ea7849147b",
+        "itaewon-class.html"
+      ],
+      "description": "An ex-convict opens a bar to take down the food empire that ruined his family."
+    },
+    {
+      "slug": "true-beauty",
+      "title": "True Beauty",
+      "emotionTag": "😂 No brain just fun",
+      "emotionClass": "chaos",
+      "category": "comedy",
+      "rating": "8.2",
+      "isTrending": false,
+      "thumbnail": "https://images.unsplash.com/photo-1524504388940-b1c1722653e1?w=480&h=300&fit=crop",
+      "watchLinks": [
+        "https://www.effectivegatecpm.com/g2cr05tw?key=d8be84b0e258e182bc2821ea7849147b",
+        "true-beauty.html"
+      ],
+      "description": "A girl transforms herself with makeup and becomes the school goddess."
+    },
+    {
+      "slug": "penthouse",
+      "title": "Penthouse",
+      "emotionTag": "🧠 Mind games & betrayal",
+      "emotionClass": "mind",
+      "category": "mindgames",
+      "rating": "8.6",
+      "isTrending": false,
+      "thumbnail": "https://images.unsplash.com/photo-1544005313-94ddf0286df2?w=480&h=300&fit=crop",
+      "watchLinks": [
+        "https://www.effectivegatecpm.com/g2cr05tw?key=d8be84b0e258e182bc2821ea7849147b",
+        "penthouse.html"
+      ],
+      "description": "Rich families in a luxury penthouse fight for status and power."
+    }
+  ]
+}
