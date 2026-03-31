@@ -1,189 +1,761 @@
 {
   "config": {
-    "featuredHeadline": "She waited 18 years. Now it's their turn to suffer.",
+    "featuredHeadline": "She waited 18 years. Now it's their turn to suffer. 🔥",
     "postsPerLoad": 20,
-    "adFrequency": 2
+    "adFrequency": 2,
+    "smartLink": "https://www.effectivegatecpm.com/g2cr05tw?key=d8be84b0e258e182bc2821ea7849147b",
+    "instagramUrl": "https://www.instagram.com/edgetakes"
   },
   "posts": [
     {
       "slug": "the-glory",
       "title": "The Glory",
-      "emotionTag": "😈 Revenge served cold",
+      "emotionTag": "😈 REVENGE LEVEL: MAXIMUM",
       "emotionClass": "revenge",
       "category": "revenge",
-      "rating": "9.4",
-      "isTrending": false,
-      "thumbnail": "https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?w=480&h=300&fit=crop",
+      "rating": "9.6",
+      "isTrending": true,
+      "thumbnail": "https://i.pinimg.com/736x/1e/32/d2/1e32d2b7ff92d0b6c4e52e2edf9d5e88.jpg",
       "watchLinks": [
         "https://www.effectivegatecpm.com/g2cr05tw?key=d8be84b0e258e182bc2821ea7849147b",
         "https://www.effectivegatecpm.com/g2cr05tw?key=d8be84b0e258e182bc2821ea7849147b"
       ],
-      "description": "A woman dedicates her life to getting revenge on her childhood bullies."
+      "description": "She was bullied and burned. She spent 18 years planning revenge. Now it's their turn to pay."
     },
     {
       "slug": "weak-hero-class-1",
       "title": "Weak Hero Class 1",
-      "emotionTag": "🔥 School fights went too far",
-      "emotionClass": "fire",
+      "emotionTag": "🔥 SCHOOL FIGHTS WENT TOO FAR",
+      "emotionClass": "fighting",
       "category": "fighting",
       "rating": "9.2",
-      "isTrending": true,
-      "thumbnail": "https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?w=480&h=300&fit=crop",
+      "isTrending": false,
+      "thumbnail": "https://i.pinimg.com/736x/fb/6d/4a/fb6d4a1cf5eb60e1208e22cf28e8a02a.jpg",
       "watchLinks": [
         "https://www.effectivegatecpm.com/g2cr05tw?key=d8be84b0e258e182bc2821ea7849147b",
         "https://www.effectivegatecpm.com/g2cr05tw?key=d8be84b0e258e182bc2821ea7849147b"
       ],
-      "description": "A brilliant student fights back against school bullies with strategic thinking."
+      "description": "A quiet genius fights back against school bullies in the most brutal way possible. Viral on every platform."
     },
     {
       "slug": "goblin",
       "title": "Goblin",
-      "emotionTag": "😭 I wasn't ready for this",
-      "emotionClass": "sad",
+      "emotionTag": "😭 I WASN'T READY FOR THIS",
+      "emotionClass": "emotional",
       "category": "emotional",
       "rating": "9.5",
       "isTrending": false,
-      "thumbnail": "https://images.unsplash.com/photo-1531746020798-e6953c6e8e04?w=480&h=300&fit=crop",
-      "watchLinks": [
-        "https://www.effectivegatecpm.com/g2cr05tw?key=d8be84b0e258e182bc2821ea7849147b",
-        "goblin.html"
-      ],
-      "description": "An immortal goblin searches for his bride who can end his immortal life."
-    },
-    {
-      "slug": "crash-landing-on-you",
-      "title": "Crash Landing on You",
-      "emotionTag": "😭 Love that hurts",
-      "emotionClass": "sad",
-      "category": "emotional",
-      "rating": "9.3",
-      "isTrending": false,
-      "thumbnail": "https://images.unsplash.com/photo-1532375810709-75b1da00537c?w=480&h=300&fit=crop",
+      "thumbnail": "https://i.pinimg.com/736x/c3/3a/7b/c33a7b8f40ee0c6ceada56f72dc79b45.jpg",
       "watchLinks": [
         "https://www.effectivegatecpm.com/g2cr05tw?key=d8be84b0e258e182bc2821ea7849147b",
         "https://www.effectivegatecpm.com/g2cr05tw?key=d8be84b0e258e182bc2821ea7849147b"
       ],
-      "description": "A South Korean heiress crash-lands in North Korea and falls for an officer."
-    },
-    {
-      "slug": "all-of-us-are-dead",
-      "title": "All of Us Are Dead",
-      "emotionTag": "🔥 Classroom turned violent",
-      "emotionClass": "fire",
-      "category": "fighting",
-      "rating": "8.8",
-      "isTrending": false,
-      "thumbnail": "https://images.unsplash.com/photo-1616530940355-351fabd9524b?w=480&h=300&fit=crop",
-      "watchLinks": [
-        "https://www.effectivegatecpm.com/g2cr05tw?key=d8be84b0e258e182bc2821ea7849147b",
-        "all-of-us-are-dead.html"
-      ],
-      "description": "A zombie virus spreads through a high school, trapping students inside."
-    },
-    {
-      "slug": "the-world-of-the-married",
-      "title": "The World of the Married",
-      "emotionTag": "💔 Toxic but addictive",
-      "emotionClass": "heart",
-      "category": "romance",
-      "rating": "9.1",
-      "isTrending": false,
-      "thumbnail": "https://images.unsplash.com/photo-1516589091380-5d8e87df6999?w=480&h=300&fit=crop",
-      "watchLinks": [
-        "https://www.effectivegatecpm.com/g2cr05tw?key=d8be84b0e258e182bc2821ea7849147b",
-        "world-of-married.html"
-      ],
-      "description": "A woman discovers her husband's affair and seeks revenge."
-    },
-    {
-      "slug": "business-proposal",
-      "title": "Business Proposal",
-      "emotionTag": "😂 Pure chaos",
-      "emotionClass": "chaos",
-      "category": "comedy",
-      "rating": "8.7",
-      "isTrending": false,
-      "thumbnail": "https://images.unsplash.com/photo-1580489944761-15a19d654956?w=480&h=300&fit=crop",
-      "watchLinks": [
-        "https://www.effectivegatecpm.com/g2cr05tw?key=d8be84b0e258e182bc2821ea7849147b",
-        "business-proposal.html"
-      ],
-      "description": "An employee goes on a blind date for her friend and meets her CEO."
-    },
-    {
-      "slug": "vincenzo",
-      "title": "Vincenzo",
-      "emotionTag": "🧠 Every move planned",
-      "emotionClass": "mind",
-      "category": "mindgames",
-      "rating": "9.0",
-      "isTrending": false,
-      "thumbnail": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=480&h=300&fit=crop",
-      "watchLinks": [
-        "https://www.effectivegatecpm.com/g2cr05tw?key=d8be84b0e258e182bc2821ea7849147b",
-        "vincenzo.html"
-      ],
-      "description": "An Italian mafia lawyer returns to Korea to retrieve gold hidden in a building."
-    },
-    {
-      "slug": "nevertheless",
-      "title": "Nevertheless",
-      "emotionTag": "💔 Red flag but irresistible",
-      "emotionClass": "heart",
-      "category": "romance",
-      "rating": "7.9",
-      "isTrending": false,
-      "thumbnail": "https://images.unsplash.com/photo-1518199266791-5375a83190b7?w=480&h=300&fit=crop",
-      "watchLinks": [
-        "https://www.effectivegatecpm.com/g2cr05tw?key=d8be84b0e258e182bc2821ea7849147b",
-        "nevertheless.html"
-      ],
-      "description": "An art student falls for a charming but emotionally unavailable classmate."
-    },
-    {
-      "slug": "itaewon-class",
-      "title": "Itaewon Class",
-      "emotionTag": "😈 They underestimated him",
-      "emotionClass": "revenge",
-      "category": "revenge",
-      "rating": "8.9",
-      "isTrending": false,
-      "thumbnail": "https://images.unsplash.com/photo-1517841905240-472988babdf9?w=480&h=300&fit=crop",
-      "watchLinks": [
-        "https://www.effectivegatecpm.com/g2cr05tw?key=d8be84b0e258e182bc2821ea7849147b",
-        "itaewon-class.html"
-      ],
-      "description": "An ex-convict opens a bar to take down the food empire that ruined his family."
+      "description": "An immortal goblin and a girl with a tragic past. Their love story will destroy you emotionally."
     },
     {
       "slug": "true-beauty",
       "title": "True Beauty",
-      "emotionTag": "😂 No brain just fun",
-      "emotionClass": "chaos",
-      "category": "comedy",
-      "rating": "8.2",
+      "emotionTag": "💖 GLOW UP OF THE CENTURY",
+      "emotionClass": "romance",
+      "category": "romance",
+      "rating": "8.8",
       "isTrending": false,
-      "thumbnail": "https://images.unsplash.com/photo-1524504388940-b1c1722653e1?w=480&h=300&fit=crop",
+      "thumbnail": "https://i.pinimg.com/736x/aa/7d/e0/aa7de00c7e1f3f7fe5ba7ed4bfa0e1a6.jpg",
       "watchLinks": [
         "https://www.effectivegatecpm.com/g2cr05tw?key=d8be84b0e258e182bc2821ea7849147b",
-        "true-beauty.html"
+        "https://www.effectivegatecpm.com/g2cr05tw?key=d8be84b0e258e182bc2821ea7849147b"
       ],
-      "description": "A girl transforms herself with makeup and becomes the school goddess."
+      "description": "A girl transforms herself with makeup. Two boys fall for her. But who knows the real her?"
     },
     {
-      "slug": "penthouse",
-      "title": "Penthouse",
-      "emotionTag": "🧠 Mind games & betrayal",
-      "emotionClass": "mind",
+      "slug": "vincenzo",
+      "title": "Vincenzo",
+      "emotionTag": "🔥 MAFIA MEETS KDRAMA",
+      "emotionClass": "fighting",
+      "category": "fighting",
+      "rating": "9.3",
+      "isTrending": false,
+      "thumbnail": "https://i.pinimg.com/736x/9d/47/e1/9d47e1b89fb0a3c2c8a2b9d9f3c8e7a2.jpg",
+      "watchLinks": [
+        "https://www.effectivegatecpm.com/g2cr05tw?key=d8be84b0e258e182bc2821ea7849147b",
+        "https://www.effectivegatecpm.com/g2cr05tw?key=d8be84b0e258e182bc2821ea7849147b"
+      ],
+      "description": "An Italian mafia lawyer returns to Korea. Dark comedy meets revenge in the most stylish way."
+    },
+    {
+      "slug": "crash-landing-on-you",
+      "title": "Crash Landing on You",
+      "emotionTag": "💔 LOVE ACROSS BORDERS",
+      "emotionClass": "romance",
+      "category": "romance",
+      "rating": "9.4",
+      "isTrending": false,
+      "thumbnail": "https://i.pinimg.com/736x/b2/8e/4f/b28e4f7c6d1a3e5b9c7d2f4a6e8b0c3d.jpg",
+      "watchLinks": [
+        "https://www.effectivegatecpm.com/g2cr05tw?key=d8be84b0e258e182bc2821ea7849147b",
+        "https://www.effectivegatecpm.com/g2cr05tw?key=d8be84b0e258e182bc2821ea7849147b"
+      ],
+      "description": "A South Korean heiress crash lands in North Korea and falls in love with a soldier. Impossible romance."
+    },
+    {
+      "slug": "my-love-from-the-star",
+      "title": "My Love from the Star",
+      "emotionTag": "😭 HE LEFT AND I CRIED",
+      "emotionClass": "emotional",
+      "category": "emotional",
+      "rating": "9.1",
+      "isTrending": false,
+      "thumbnail": "https://i.pinimg.com/736x/d4/a1/3b/d4a13b5e7c9f2d6a8b0e4c2f7d9a1b3e.jpg",
+      "watchLinks": [
+        "https://www.effectivegatecpm.com/g2cr05tw?key=d8be84b0e258e182bc2821ea7849147b",
+        "https://www.effectivegatecpm.com/g2cr05tw?key=d8be84b0e258e182bc2821ea7849147b"
+      ],
+      "description": "An alien who has lived on Earth for 400 years falls in love before his departure. Heart-wrecking."
+    },
+    {
+      "slug": "itaewon-class",
+      "title": "Itaewon Class",
+      "emotionTag": "🔥 FROM NOTHING TO KING",
+      "emotionClass": "revenge",
+      "category": "revenge",
+      "rating": "8.9",
+      "isTrending": false,
+      "thumbnail": "https://i.pinimg.com/736x/f6/c3/5d/f6c35d2a8b4e7f1c9d3a5b7e0f2c4d6a.jpg",
+      "watchLinks": [
+        "https://www.effectivegatecpm.com/g2cr05tw?key=d8be84b0e258e182bc2821ea7849147b",
+        "https://www.effectivegatecpm.com/g2cr05tw?key=d8be84b0e258e182bc2821ea7849147b"
+      ],
+      "description": "After his father is killed, he builds a business empire to take down the conglomerate that destroyed his life."
+    },
+    {
+      "slug": "all-of-us-are-dead",
+      "title": "All of Us Are Dead",
+      "emotionTag": "☠️ SCHOOL ZOMBIE OUTBREAK",
+      "emotionClass": "fighting",
+      "category": "fighting",
+      "rating": "8.7",
+      "isTrending": false,
+      "thumbnail": "https://i.pinimg.com/736x/a1/b2/c3/a1b2c3d4e5f6a7b8c9d0e1f2a3b4c5d6.jpg",
+      "watchLinks": [
+        "https://www.effectivegatecpm.com/g2cr05tw?key=d8be84b0e258e182bc2821ea7849147b",
+        "https://www.effectivegatecpm.com/g2cr05tw?key=d8be84b0e258e182bc2821ea7849147b"
+      ],
+      "description": "A zombie virus breaks out in a high school. Students fight to survive. No adults are coming to help."
+    },
+    {
+      "slug": "squid-game",
+      "title": "Squid Game",
+      "emotionTag": "🧠 SURVIVE OR DIE",
+      "emotionClass": "mindgames",
+      "category": "mindgames",
+      "rating": "9.0",
+      "isTrending": false,
+      "thumbnail": "https://i.pinimg.com/736x/e2/f3/a4/e2f3a4b5c6d7e8f9a0b1c2d3e4f5a6b7.jpg",
+      "watchLinks": [
+        "https://www.effectivegatecpm.com/g2cr05tw?key=d8be84b0e258e182bc2821ea7849147b",
+        "https://www.effectivegatecpm.com/g2cr05tw?key=d8be84b0e258e182bc2821ea7849147b"
+      ],
+      "description": "456 players. Children's games. Lose and you die. The most watched Netflix show ever."
+    },
+    {
+      "slug": "business-proposal",
+      "title": "Business Proposal",
+      "emotionTag": "😂 FAKE DATE GONE WRONG",
+      "emotionClass": "comedy",
+      "category": "comedy",
+      "rating": "8.6",
+      "isTrending": false,
+      "thumbnail": "https://i.pinimg.com/736x/c4/d5/e6/c4d5e6f7a8b9c0d1e2f3a4b5c6d7e8f9.jpg",
+      "watchLinks": [
+        "https://www.effectivegatecpm.com/g2cr05tw?key=d8be84b0e258e182bc2821ea7849147b",
+        "https://www.effectivegatecpm.com/g2cr05tw?key=d8be84b0e258e182bc2821ea7849147b"
+      ],
+      "description": "She goes on a blind date pretending to be her friend. He's the CEO of her company. Comedy gold."
+    },
+    {
+      "slug": "nevertheless",
+      "title": "Nevertheless",
+      "emotionTag": "💔 TOXIC BUT ADDICTIVE",
+      "emotionClass": "romance",
+      "category": "romance",
+      "rating": "8.2",
+      "isTrending": false,
+      "thumbnail": "https://i.pinimg.com/736x/b3/c4/d5/b3c4d5e6f7a8b9c0d1e2f3a4b5c6d7e8.jpg",
+      "watchLinks": [
+        "https://www.effectivegatecpm.com/g2cr05tw?key=d8be84b0e258e182bc2821ea7849147b",
+        "https://www.effectivegatecpm.com/g2cr05tw?key=d8be84b0e258e182bc2821ea7849147b"
+      ],
+      "description": "She knows he's bad for her. But she can't stop. The most realistic toxic relationship drama."
+    },
+    {
+      "slug": "penthouse-war-in-life",
+      "title": "Penthouse: War in Life",
+      "emotionTag": "😈 BETRAYAL AFTER BETRAYAL",
+      "emotionClass": "revenge",
+      "category": "revenge",
+      "rating": "9.1",
+      "isTrending": false,
+      "thumbnail": "https://i.pinimg.com/736x/2a/3b/4c/2a3b4c5d6e7f8a9b0c1d2e3f4a5b6c7d.jpg",
+      "watchLinks": [
+        "https://www.effectivegatecpm.com/g2cr05tw?key=d8be84b0e258e182bc2821ea7849147b",
+        "https://www.effectivegatecpm.com/g2cr05tw?key=d8be84b0e258e182bc2821ea7849147b"
+      ],
+      "description": "Rich families. Murder. Lies. Every episode ends with a twist that makes you scream. Pure chaos."
+    },
+    {
+      "slug": "hotel-del-luna",
+      "title": "Hotel Del Luna",
+      "emotionTag": "😭 THE ENDING DESTROYED ME",
+      "emotionClass": "emotional",
+      "category": "emotional",
+      "rating": "9.3",
+      "isTrending": false,
+      "thumbnail": "https://i.pinimg.com/736x/5e/6f/7a/5e6f7a8b9c0d1e2f3a4b5c6d7e8f9a0b.jpg",
+      "watchLinks": [
+        "https://www.effectivegatecpm.com/g2cr05tw?key=d8be84b0e258e182bc2821ea7849147b",
+        "https://www.effectivegatecpm.com/g2cr05tw?key=d8be84b0e258e182bc2821ea7849147b"
+      ],
+      "description": "A cursed woman runs a hotel for ghosts. When she finally finds love, she has to let go. Devastating."
+    },
+    {
+      "slug": "extraordinary-attorney-woo",
+      "title": "Extraordinary Attorney Woo",
+      "emotionTag": "🥹 PUREST SOUL IN KDRAMA",
+      "emotionClass": "emotional",
+      "category": "emotional",
+      "rating": "9.2",
+      "isTrending": false,
+      "thumbnail": "https://i.pinimg.com/736x/8a/9b/0c/8a9b0c1d2e3f4a5b6c7d8e9f0a1b2c3d.jpg",
+      "watchLinks": [
+        "https://www.effectivegatecpm.com/g2cr05tw?key=d8be84b0e258e182bc2821ea7849147b",
+        "https://www.effectivegatecpm.com/g2cr05tw?key=d8be84b0e258e182bc2821ea7849147b"
+      ],
+      "description": "An autistic lawyer with a genius mind takes on cases nobody else can solve. You will love her."
+    },
+    {
+      "slug": "sweet-home",
+      "title": "Sweet Home",
+      "emotionTag": "☠️ MONSTERS INSIDE US",
+      "emotionClass": "fighting",
+      "category": "fighting",
+      "rating": "8.5",
+      "isTrending": false,
+      "thumbnail": "https://i.pinimg.com/736x/1b/2c/3d/1b2c3d4e5f6a7b8c9d0e1f2a3b4c5d6e.jpg",
+      "watchLinks": [
+        "https://www.effectivegatecpm.com/g2cr05tw?key=d8be84b0e258e182bc2821ea7849147b",
+        "https://www.effectivegatecpm.com/g2cr05tw?key=d8be84b0e258e182bc2821ea7849147b"
+      ],
+      "description": "Humans turn into monsters based on their desires. One boy fights to stay human. Terrifying concept."
+    },
+    {
+      "slug": "alice-in-borderland",
+      "title": "Alice in Borderland",
+      "emotionTag": "🧠 DEADLIEST GAME EVER",
+      "emotionClass": "mindgames",
+      "category": "mindgames",
+      "rating": "9.0",
+      "isTrending": false,
+      "thumbnail": "https://i.pinimg.com/736x/4e/5f/6a/4e5f6a7b8c9d0e1f2a3b4c5d6e7f8a9b.jpg",
+      "watchLinks": [
+        "https://www.effectivegatecpm.com/g2cr05tw?key=d8be84b0e258e182bc2821ea7849147b",
+        "https://www.effectivegatecpm.com/g2cr05tw?key=d8be84b0e258e182bc2821ea7849147b"
+      ],
+      "description": "Trapped in a parallel Tokyo. Play deadly games or die. Every round gets more impossible."
+    },
+    {
+      "slug": "doom-at-your-service",
+      "title": "Doom at Your Service",
+      "emotionTag": "💔 LOVING DEATH ITSELF",
+      "emotionClass": "romance",
+      "category": "romance",
+      "rating": "8.4",
+      "isTrending": false,
+      "thumbnail": "https://i.pinimg.com/736x/7a/8b/9c/7a8b9c0d1e2f3a4b5c6d7e8f9a0b1c2d.jpg",
+      "watchLinks": [
+        "https://www.effectivegatecpm.com/g2cr05tw?key=d8be84b0e258e182bc2821ea7849147b",
+        "https://www.effectivegatecpm.com/g2cr05tw?key=d8be84b0e258e182bc2821ea7849147b"
+      ],
+      "description": "She wished for doom. Doom appeared as a man. Now she's falling in love with destruction itself."
+    },
+    {
+      "slug": "my-name",
+      "title": "My Name",
+      "emotionTag": "🔥 SHE CHOSE VIOLENCE",
+      "emotionClass": "fighting",
+      "category": "fighting",
+      "rating": "9.0",
+      "isTrending": false,
+      "thumbnail": "https://i.pinimg.com/736x/0d/1e/2f/0d1e2f3a4b5c6d7e8f9a0b1c2d3e4f5a.jpg",
+      "watchLinks": [
+        "https://www.effectivegatecpm.com/g2cr05tw?key=d8be84b0e258e182bc2821ea7849147b",
+        "https://www.effectivegatecpm.com/g2cr05tw?key=d8be84b0e258e182bc2821ea7849147b"
+      ],
+      "description": "Her father was murdered. She joins the gang that killed him. Infiltrates the police. Pure rage."
+    },
+    {
+      "slug": "flower-of-evil",
+      "title": "Flower of Evil",
+      "emotionTag": "🧠 IS HE A PSYCHOPATH?",
+      "emotionClass": "mindgames",
+      "category": "mindgames",
+      "rating": "9.4",
+      "isTrending": false,
+      "thumbnail": "https://i.pinimg.com/736x/3a/4b/5c/3a4b5c6d7e8f9a0b1c2d3e4f5a6b7c8d.jpg",
+      "watchLinks": [
+        "https://www.effectivegatecpm.com/g2cr05tw?key=d8be84b0e258e182bc2821ea7849147b",
+        "https://www.effectivegatecpm.com/g2cr05tw?key=d8be84b0e258e182bc2821ea7849147b"
+      ],
+      "description": "A perfect husband. A detective wife. She discovers he might be a serial killer. Trust no one."
+    },
+    {
+      "slug": "tale-of-the-nine-tailed",
+      "title": "Tale of the Nine Tailed",
+      "emotionTag": "😭 CENTURIES OF WAITING",
+      "emotionClass": "emotional",
+      "category": "emotional",
+      "rating": "8.7",
+      "isTrending": false,
+      "thumbnail": "https://i.pinimg.com/736x/6d/7e/8f/6d7e8f9a0b1c2d3e4f5a6b7c8d9e0f1a.jpg",
+      "watchLinks": [
+        "https://www.effectivegatecpm.com/g2cr05tw?key=d8be84b0e258e182bc2821ea7849147b",
+        "https://www.effectivegatecpm.com/g2cr05tw?key=d8be84b0e258e182bc2821ea7849147b"
+      ],
+      "description": "A nine-tailed fox waits centuries for his dead lover to be reborn. When she returns, danger follows."
+    },
+    {
+      "slug": "mouse",
+      "title": "Mouse",
+      "emotionTag": "🧠 BORN TO KILL?",
+      "emotionClass": "mindgames",
+      "category": "mindgames",
+      "rating": "9.3",
+      "isTrending": false,
+      "thumbnail": "https://i.pinimg.com/736x/9a/0b/1c/9a0b1c2d3e4f5a6b7c8d9e0f1a2b3c4d.jpg",
+      "watchLinks": [
+        "https://www.effectivegatecpm.com/g2cr05tw?key=d8be84b0e258e182bc2821ea7849147b",
+        "https://www.effectivegatecpm.com/g2cr05tw?key=d8be84b0e258e182bc2821ea7849147b"
+      ],
+      "description": "What if psychopathy could be detected before birth? A cop hunts a serial killer. The twist will end you."
+    },
+    {
+      "slug": "scarlet-heart-ryeo",
+      "title": "Scarlet Heart: Ryeo",
+      "emotionTag": "😭 CRIED FOR 3 DAYS STRAIGHT",
+      "emotionClass": "emotional",
+      "category": "emotional",
+      "rating": "9.5",
+      "isTrending": false,
+      "thumbnail": "https://i.pinimg.com/736x/2c/3d/4e/2c3d4e5f6a7b8c9d0e1f2a3b4c5d6e7f.jpg",
+      "watchLinks": [
+        "https://www.effectivegatecpm.com/g2cr05tw?key=d8be84b0e258e182bc2821ea7849147b",
+        "https://www.effectivegatecpm.com/g2cr05tw?key=d8be84b0e258e182bc2821ea7849147b"
+      ],
+      "description": "She time-travels to ancient Korea. Falls in love with a prince. Can't change history. The ending broke millions."
+    },
+    {
+      "slug": "beyond-evil",
+      "title": "Beyond Evil",
+      "emotionTag": "🧠 EVERYONE IS SUSPECT",
+      "emotionClass": "mindgames",
+      "category": "mindgames",
+      "rating": "9.2",
+      "isTrending": false,
+      "thumbnail": "https://i.pinimg.com/736x/5c/6d/7e/5c6d7e8f9a0b1c2d3e4f5a6b7c8d9e0f.jpg",
+      "watchLinks": [
+        "https://www.effectivegatecpm.com/g2cr05tw?key=d8be84b0e258e182bc2821ea7849147b",
+        "https://www.effectivegatecpm.com/g2cr05tw?key=d8be84b0e258e182bc2821ea7849147b"
+      ],
+      "description": "Two cops. One small town. Multiple murders. They suspect each other. You won't guess the killer."
+    },
+    {
+      "slug": "reply-1988",
+      "title": "Reply 1988",
+      "emotionTag": "🥹 NOSTALGIA HITS DIFFERENT",
+      "emotionClass": "emotional",
+      "category": "emotional",
+      "rating": "9.7",
+      "isTrending": false,
+      "thumbnail": "https://i.pinimg.com/736x/8c/9d/0e/8c9d0e1f2a3b4c5d6e7f8a9b0c1d2e3f.jpg",
+      "watchLinks": [
+        "https://www.effectivegatecpm.com/g2cr05tw?key=d8be84b0e258e182bc2821ea7849147b",
+        "https://www.effectivegatecpm.com/g2cr05tw?key=d8be84b0e258e182bc2821ea7849147b"
+      ],
+      "description": "Five families in one neighborhood. 1988 Seoul. Friendship, love, and growing up. You'll cry every episode."
+    },
+    {
+      "slug": "kingdom",
+      "title": "Kingdom",
+      "emotionTag": "☠️ ZOMBIES IN JOSEON ERA",
+      "emotionClass": "fighting",
+      "category": "fighting",
+      "rating": "9.1",
+      "isTrending": false,
+      "thumbnail": "https://i.pinimg.com/736x/1c/2d/3e/1c2d3e4f5a6b7c8d9e0f1a2b3c4d5e6f.jpg",
+      "watchLinks": [
+        "https://www.effectivegatecpm.com/g2cr05tw?key=d8be84b0e258e182bc2821ea7849147b",
+        "https://www.effectivegatecpm.com/g2cr05tw?key=d8be84b0e258e182bc2821ea7849147b"
+      ],
+      "description": "A zombie plague in ancient Korea. A prince must fight the undead and political enemies. Netflix masterpiece."
+    },
+    {
+      "slug": "twenty-five-twenty-one",
+      "title": "Twenty Five Twenty One",
+      "emotionTag": "💔 THEY DESERVED BETTER",
+      "emotionClass": "romance",
+      "category": "romance",
+      "rating": "9.0",
+      "isTrending": false,
+      "thumbnail": "https://i.pinimg.com/736x/4c/5d/6e/4c5d6e7f8a9b0c1d2e3f4a5b6c7d8e9f.jpg",
+      "watchLinks": [
+        "https://www.effectivegatecpm.com/g2cr05tw?key=d8be84b0e258e182bc2821ea7849147b",
+        "https://www.effectivegatecpm.com/g2cr05tw?key=d8be84b0e258e182bc2821ea7849147b"
+      ],
+      "description": "They met at 15 and 22. Fell in love. But life pulled them apart. The ending will haunt you."
+    },
+    {
+      "slug": "sky-castle",
+      "title": "SKY Castle",
+      "emotionTag": "😈 PARENTS GONE INSANE",
+      "emotionClass": "revenge",
+      "category": "revenge",
+      "rating": "9.4",
+      "isTrending": false,
+      "thumbnail": "https://i.pinimg.com/736x/7c/8d/9e/7c8d9e0f1a2b3c4d5e6f7a8b9c0d1e2f.jpg",
+      "watchLinks": [
+        "https://www.effectivegatecpm.com/g2cr05tw?key=d8be84b0e258e182bc2821ea7849147b",
+        "https://www.effectivegatecpm.com/g2cr05tw?key=d8be84b0e258e182bc2821ea7849147b"
+      ],
+      "description": "Rich mothers will destroy anyone to get their kids into top universities. Murder, lies, obsession. Insane."
+    },
+    {
+      "slug": "signal",
+      "title": "Signal",
+      "emotionTag": "🧠 COMMUNICATION ACROSS TIME",
+      "emotionClass": "mindgames",
+      "category": "mindgames",
+      "rating": "9.5",
+      "isTrending": false,
+      "thumbnail": "https://i.pinimg.com/736x/0c/1d/2e/0c1d2e3f4a5b6c7d8e9f0a1b2c3d4e5f.jpg",
+      "watchLinks": [
+        "https://www.effectivegatecpm.com/g2cr05tw?key=d8be84b0e258e182bc2821ea7849147b",
+        "https://www.effectivegatecpm.com/g2cr05tw?key=d8be84b0e258e182bc2821ea7849147b"
+      ],
+      "description": "A walkie-talkie connects two detectives across time. They solve cold cases together. Mind-blowing concept."
+    },
+    {
+      "slug": "while-you-were-sleeping",
+      "title": "While You Were Sleeping",
+      "emotionTag": "💖 DREAMS PREDICT DEATH",
+      "emotionClass": "romance",
+      "category": "romance",
+      "rating": "8.9",
+      "isTrending": false,
+      "thumbnail": "https://i.pinimg.com/736x/3c/4d/5e/3c4d5e6f7a8b9c0d1e2f3a4b5c6d7e8f.jpg",
+      "watchLinks": [
+        "https://www.effectivegatecpm.com/g2cr05tw?key=d8be84b0e258e182bc2821ea7849147b",
+        "https://www.effectivegatecpm.com/g2cr05tw?key=d8be84b0e258e182bc2821ea7849147b"
+      ],
+      "description": "She sees deaths in her dreams. He's a prosecutor who can change the future. Romance meets thriller."
+    },
+    {
+      "slug": "mr-sunshine",
+      "title": "Mr. Sunshine",
+      "emotionTag": "😭 LOVE IN WAR",
+      "emotionClass": "emotional",
+      "category": "emotional",
+      "rating": "9.6",
+      "isTrending": false,
+      "thumbnail": "https://i.pinimg.com/736x/6c/7d/8e/6c7d8e9f0a1b2c3d4e5f6a7b8c9d0e1f.jpg",
+      "watchLinks": [
+        "https://www.effectivegatecpm.com/g2cr05tw?key=d8be84b0e258e182bc2821ea7849147b",
+        "https://www.effectivegatecpm.com/g2cr05tw?key=d8be84b0e258e182bc2821ea7849147b"
+      ],
+      "description": "A Korean boy escapes to America. Returns as a soldier. Falls in love during war. Cinematically perfect."
+    },
+    {
+      "slug": "the-world-of-the-married",
+      "title": "The World of the Married",
+      "emotionTag": "😈 CHEATING EXPOSED BRUTALLY",
+      "emotionClass": "revenge",
+      "category": "revenge",
+      "rating": "9.3",
+      "isTrending": false,
+      "thumbnail": "https://i.pinimg.com/736x/9c/0d/1e/9c0d1e2f3a4b5c6d7e8f9a0b1c2d3e4f.jpg",
+      "watchLinks": [
+        "https://www.effectivegatecpm.com/g2cr05tw?key=d8be84b0e258e182bc2821ea7849147b",
+        "https://www.effectivegatecpm.com/g2cr05tw?key=d8be84b0e258e182bc2821ea7849147b"
+      ],
+      "description": "She discovers her husband's affair. Instead of crying, she destroys his entire life. Savage queen."
+    },
+    {
+      "slug": "strangers-from-hell",
+      "title": "Strangers from Hell",
+      "emotionTag": "☠️ DON'T TRUST YOUR NEIGHBORS",
+      "emotionClass": "mindgames",
+      "category": "mindgames",
+      "rating": "8.8",
+      "isTrending": false,
+      "thumbnail": "https://i.pinimg.com/736x/2c/3d/4e/2c3d4e5f6a7b8c9d0e1f2a3b4c5d6e7f.jpg",
+      "watchLinks": [
+        "https://www.effectivegatecpm.com/g2cr05tw?key=d8be84b0e258e182bc2821ea7849147b",
+        "https://www.effectivegatecpm.com/g2cr05tw?key=d8be84b0e258e182bc2821ea7849147b"
+      ],
+      "description": "He moves into a cheap apartment. The residents are not normal. Something sinister is happening. Disturbing."
+    },
+    {
+      "slug": "her-private-life",
+      "title": "Her Private Life",
+      "emotionTag": "💖 FANGIRL FALLS IN LOVE",
+      "emotionClass": "romance",
+      "category": "romance",
+      "rating": "8.5",
+      "isTrending": false,
+      "thumbnail": "https://i.pinimg.com/736x/5c/6d/7e/5c6d7e8f9a0b1c2d3e4f5a6b7c8d9e0f.jpg",
+      "watchLinks": [
+        "https://www.effectivegatecpm.com/g2cr05tw?key=d8be84b0e258e182bc2821ea7849147b",
+        "https://www.effectivegatecpm.com/g2cr05tw?key=d8be84b0e258e182bc2821ea7849147b"
+      ],
+      "description": "A museum curator by day. An idol fangirl by night. Her boss discovers her secret. Romance ignites."
+    },
+    {
+      "slug": "move-to-heaven",
+      "title": "Move to Heaven",
+      "emotionTag": "😭 EVERY EPISODE MADE ME CRY",
+      "emotionClass": "emotional",
+      "category": "emotional",
+      "rating": "9.4",
+      "isTrending": false,
+      "thumbnail": "https://i.pinimg.com/736x/8c/9d/0e/8c9d0e1f2a3b4c5d6e7f8a9b0c1d2e3f.jpg",
+      "watchLinks": [
+        "https://www.effectivegatecpm.com/g2cr05tw?key=d8be84b0e258e182bc2821ea7849147b",
+        "https://www.effectivegatecpm.com/g2cr05tw?key=d8be84b0e258e182bc2821ea7849147b"
+      ],
+      "description": "They clean up after the dead. Each episode tells a departed person's story. Prepare tissues."
+    },
+    {
+      "slug": "lawless-lawyer",
+      "title": "Lawless Lawyer",
+      "emotionTag": "🔥 FISTS AND JUSTICE",
+      "emotionClass": "fighting",
+      "category": "fighting",
+      "rating": "8.6",
+      "isTrending": false,
+      "thumbnail": "https://i.pinimg.com/736x/1c/2d/3e/1c2d3e4f5a6b7c8d9e0f1a2b3c4d5e6f.jpg",
+      "watchLinks": [
+        "https://www.effectivegatecpm.com/g2cr05tw?key=d8be84b0e258e182bc2821ea7849147b",
+        "https://www.effectivegatecpm.com/g2cr05tw?key=d8be84b0e258e182bc2821ea7849147b"
+      ],
+      "description": "A lawyer who fights with his fists. Corrupt judges. A city ruled by fear. He's here to burn it down."
+    },
+    {
+      "slug": "alchemy-of-souls",
+      "title": "Alchemy of Souls",
+      "emotionTag": "🔥 MAGIC AND BETRAYAL",
+      "emotionClass": "fighting",
+      "category": "fighting",
+      "rating": "9.1",
+      "isTrending": false,
+      "thumbnail": "https://i.pinimg.com/736x/4c/5d/6e/4c5d6e7f8a9b0c1d2e3f4a5b6c7d8e9f.jpg",
+      "watchLinks": [
+        "https://www.effectivegatecpm.com/g2cr05tw?key=d8be84b0e258e182bc2821ea7849147b",
+        "https://www.effectivegatecpm.com/g2cr05tw?key=d8be84b0e258e182bc2821ea7849147b"
+      ],
+      "description": "A powerful assassin's soul trapped in a blind woman's body. Magic, swords, and political games. Epic."
+    },
+    {
+      "slug": "taxi-driver",
+      "title": "Taxi Driver",
+      "emotionTag": "😈 JUSTICE BY ANY MEANS",
+      "emotionClass": "revenge",
+      "category": "revenge",
+      "rating": "9.2",
+      "isTrending": false,
+      "thumbnail": "https://i.pinimg.com/736x/7c/8d/9e/7c8d9e0f1a2b3c4d5e6f7a8b9c0d1e2f.jpg",
+      "watchLinks": [
+        "https://www.effectivegatecpm.com/g2cr05tw?key=d8be84b0e258e182bc2821ea7849147b",
+        "https://www.effectivegatecpm.com/g2cr05tw?key=d8be84b0e258e182bc2821ea7849147b"
+      ],
+      "description": "A taxi service that delivers revenge for victims the law couldn't help. Every episode is satisfying."
+    },
+    {
+      "slug": "our-beloved-summer",
+      "title": "Our Beloved Summer",
+      "emotionTag": "💔 EX-LOVERS REUNITE",
+      "emotionClass": "romance",
+      "category": "romance",
+      "rating": "8.8",
+      "isTrending": false,
+      "thumbnail": "https://i.pinimg.com/736x/0c/1d/2e/0c1d2e3f4a5b6c7d8e9f0a1b2c3d4e5f.jpg",
+      "watchLinks": [
+        "https://www.effectivegatecpm.com/g2cr05tw?key=d8be84b0e258e182bc2821ea7849147b",
+        "https://www.effectivegatecpm.com/g2cr05tw?key=d8be84b0e258e182bc2821ea7849147b"
+      ],
+      "description": "They broke up 5 years ago. A viral documentary forces them back together. Old feelings return."
+    },
+    {
+      "slug": "the-silent-sea",
+      "title": "The Silent Sea",
+      "emotionTag": "☠️ SPACE HORROR KDRAMA",
+      "emotionClass": "mindgames",
+      "category": "mindgames",
+      "rating": "8.3",
+      "isTrending": false,
+      "thumbnail": "https://i.pinimg.com/736x/3c/4d/5e/3c4d5e6f7a8b9c0d1e2f3a4b5c6d7e8f.jpg",
+      "watchLinks": [
+        "https://www.effectivegatecpm.com/g2cr05tw?key=d8be84b0e258e182bc2821ea7849147b",
+        "https://www.effectivegatecpm.com/g2cr05tw?key=d8be84b0e258e182bc2821ea7849147b"
+      ],
+      "description": "A mission to the moon. A secret research station. Everyone who went there died. Now they're going back."
+    },
+    {
+      "slug": "love-alarm",
+      "title": "Love Alarm",
+      "emotionTag": "💖 AN APP THAT DETECTS LOVE",
+      "emotionClass": "romance",
+      "category": "romance",
+      "rating": "8.1",
+      "isTrending": false,
+      "thumbnail": "https://i.pinimg.com/736x/6c/7d/8e/6c7d8e9f0a1b2c3d4e5f6a7b8c9d0e1f.jpg",
+      "watchLinks": [
+        "https://www.effectivegatecpm.com/g2cr05tw?key=d8be84b0e258e182bc2821ea7849147b",
+        "https://www.effectivegatecpm.com/g2cr05tw?key=d8be84b0e258e182bc2821ea7849147b"
+      ],
+      "description": "An app tells you if someone nearby likes you. She's caught between two boys. Technology meets heartbreak."
+    },
+    {
+      "slug": "the-uncanny-counter",
+      "title": "The Uncanny Counter",
+      "emotionTag": "🔥 NOODLE SHOP DEMON HUNTERS",
+      "emotionClass": "fighting",
+      "category": "fighting",
+      "rating": "8.7",
+      "isTrending": false,
+      "thumbnail": "https://i.pinimg.com/736x/9c/0d/1e/9c0d1e2f3a4b5c6d7e8f9a0b1c2d3e4f.jpg",
+      "watchLinks": [
+        "https://www.effectivegatecpm.com/g2cr05tw?key=d8be84b0e258e182bc2821ea7849147b",
+        "https://www.effectivegatecpm.com/g2cr05tw?key=d8be84b0e258e182bc2821ea7849147b"
+      ],
+      "description": "They work at a noodle shop by day. Hunt evil spirits by night. Disabled boy becomes the strongest."
+    },
+    {
+      "slug": "vagabond",
+      "title": "Vagabond",
+      "emotionTag": "🔥 CORRUPTION RUNS DEEP",
+      "emotionClass": "fighting",
+      "category": "fighting",
+      "rating": "9.0",
+      "isTrending": false,
+      "thumbnail": "https://i.pinimg.com/736x/2c/3d/4e/2c3d4e5f6a7b8c9d0e1f2a3b4c5d6e7f.jpg",
+      "watchLinks": [
+        "https://www.effectivegatecpm.com/g2cr05tw?key=d8be84b0e258e182bc2821ea7849147b",
+        "https://www.effectivegatecpm.com/g2cr05tw?key=d8be84b0e258e182bc2821ea7849147b"
+      ],
+      "description": "A plane crash kills his nephew. It wasn't an accident. He uncovers a government conspiracy. Action packed."
+    },
+    {
+      "slug": "suspicious-partner",
+      "title": "Suspicious Partner",
+      "emotionTag": "🧠 DATING A MURDER SUSPECT",
+      "emotionClass": "mindgames",
       "category": "mindgames",
       "rating": "8.6",
       "isTrending": false,
-      "thumbnail": "https://images.unsplash.com/photo-1544005313-94ddf0286df2?w=480&h=300&fit=crop",
+      "thumbnail": "https://i.pinimg.com/736x/5c/6d/7e/5c6d7e8f9a0b1c2d3e4f5a6b7c8d9e0f.jpg",
       "watchLinks": [
         "https://www.effectivegatecpm.com/g2cr05tw?key=d8be84b0e258e182bc2821ea7849147b",
-        "penthouse.html"
+        "https://www.effectivegatecpm.com/g2cr05tw?key=d8be84b0e258e182bc2821ea7849147b"
       ],
-      "description": "Rich families in a luxury penthouse fight for status and power."
+      "description": "She's accused of murder. He's her lawyer. They fall in love. But did she actually do it?"
+    },
+    {
+      "slug": "doctor-stranger",
+      "title": "Doctor Stranger",
+      "emotionTag": "💔 SEPARATED BY POLITICS",
+      "emotionClass": "emotional",
+      "category": "emotional",
+      "rating": "8.3",
+      "isTrending": false,
+      "thumbnail": "https://i.pinimg.com/736x/8c/9d/0e/8c9d0e1f2a3b4c5d6e7f8a9b0c1d2e3f.jpg",
+      "watchLinks": [
+        "https://www.effectivegatecpm.com/g2cr05tw?key=d8be84b0e258e182bc2821ea7849147b",
+        "https://www.effectivegatecpm.com/g2cr05tw?key=d8be84b0e258e182bc2821ea7849147b"
+      ],
+      "description": "A genius surgeon from North Korea escapes to the South. But the woman he loves is still trapped."
+    },
+    {
+      "slug": "d-p-deserter-pursuit",
+      "title": "D.P.",
+      "emotionTag": "😭 MILITARY ABUSE EXPOSED",
+      "emotionClass": "emotional",
+      "category": "emotional",
+      "rating": "9.1",
+      "isTrending": false,
+      "thumbnail": "https://i.pinimg.com/736x/1c/2d/3e/1c2d3e4f5a6b7c8d9e0f1a2b3c4d5e6f.jpg",
+      "watchLinks": [
+        "https://www.effectivegatecpm.com/g2cr05tw?key=d8be84b0e258e182bc2821ea7849147b",
+        "https://www.effectivegatecpm.com/g2cr05tw?key=d8be84b0e258e182bc2821ea7849147b"
+      ],
+      "description": "He catches military deserters. But every deserter has a heartbreaking reason for running. You'll question everything."
+    },
+    {
+      "slug": "the-king-eternal-monarch",
+      "title": "The King: Eternal Monarch",
+      "emotionTag": "💖 LOVE ACROSS DIMENSIONS",
+      "emotionClass": "romance",
+      "category": "romance",
+      "rating": "8.7",
+      "isTrending": false,
+      "thumbnail": "https://i.pinimg.com/736x/4c/5d/6e/4c5d6e7f8a9b0c1d2e3f4a5b6c7d8e9f.jpg",
+      "watchLinks": [
+        "https://www.effectivegatecpm.com/g2cr05tw?key=d8be84b0e258e182bc2821ea7849147b",
+        "https://www.effectivegatecpm.com/g2cr05tw?key=d8be84b0e258e182bc2821ea7849147b"
+      ],
+      "description": "A king from a parallel universe falls in love with a detective in our world. Two worlds collide."
+    },
+    {
+      "slug": "eve",
+      "title": "Eve",
+      "emotionTag": "😈 13-YEAR REVENGE PLAN",
+      "emotionClass": "revenge",
+      "category": "revenge",
+      "rating": "8.4",
+      "isTrending": false,
+      "thumbnail": "https://i.pinimg.com/736x/7c/8d/9e/7c8d9e0f1a2b3c4d5e6f7a8b9c0d1e2f.jpg",
+      "watchLinks": [
+        "https://www.effectivegatecpm.com/g2cr05tw?key=d8be84b0e258e182bc2821ea7849147b",
+        "https://www.effectivegatecpm.com/g2cr05tw?key=d8be84b0e258e182bc2821ea7849147b"
+      ],
+      "description": "She spent 13 years becoming the perfect weapon. Seduction. Manipulation. All to destroy one family."
+    },
+    {
+      "slug": "bloodhounds",
+      "title": "Bloodhounds",
+      "emotionTag": "🔥 BOXING MEETS LOAN SHARKS",
+      "emotionClass": "fighting",
+      "category": "fighting",
+      "rating": "9.0",
+      "isTrending": false,
+      "thumbnail": "https://i.pinimg.com/736x/0c/1d/2e/0c1d2e3f4a5b6c7d8e9f0a1b2c3d4e5f.jpg",
+      "watchLinks": [
+        "https://www.effectivegatecpm.com/g2cr05tw?key=d8be84b0e258e182bc2821ea7849147b",
+        "https://www.effectivegatecpm.com/g2cr05tw?key=d8be84b0e258e182bc2821ea7849147b"
+      ],
+      "description": "Two young boxers take on a ruthless loan shark empire. Raw fight scenes. Underdog story on steroids."
+    },
+    {
+      "slug": "tomorrow",
+      "title": "Tomorrow",
+      "emotionTag": "😭 SAVING SOULS FROM DEATH",
+      "emotionClass": "emotional",
+      "category": "emotional",
+      "rating": "8.9",
+      "isTrending": false,
+      "thumbnail": "https://i.pinimg.com/736x/3c/4d/5e/3c4d5e6f7a8b9c0d1e2f3a4b5c6d7e8f.jpg",
+      "watchLinks": [
+        "https://www.effectivegatecpm.com/g2cr05tw?key=d8be84b0e258e182bc2821ea7849147b",
+        "https://www.effectivegatecpm.com/g2cr05tw?key=d8be84b0e258e182bc2821ea7849147b"
+      ],
+      "description": "Grim reapers who save people from taking their own lives. Every episode tackles real pain. Important drama."
     }
   ]
 }
